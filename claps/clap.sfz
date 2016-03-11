@@ -1,0 +1,6 @@
+<group> key=39 loop_mode=one_shot seq_length=5
+<region> sample=clap1.wav
+<region> sample=clap2.wav seq_position=2
+<region> sample=clap3.wav seq_position=3
+<region> sample=clap4.wav seq_position=4
+<region> sample=clap5.wav seq_position=5

@@ -1,0 +1,15 @@
+<group>
+loop_mode=one_shot
+//amp_veltrack=60
+/*
+<region> hivel=36 sample=bell_p.wav pitch_keycenter=c6 lokey=g5
+<region> lovel=37 hivel=75 sample=bell_mp.wav pitch_keycenter=c6 lokey=g5
+<region> lovel=76 hivel=105 sample=bell_mf.wav pitch_keycenter=c6 lokey=g5
+<region> lovel=106 sample=bell_f.wav pitch_keycenter=c6 lokey=g5
+<region> volume=-10 sample=7_Bb.wav pitch_keycenter=a#5 lokey=g5
+*/
+<region> sample=bell_f.wav pitch_keycenter=c6 lokey=g5
+<region> sample=7_D.wav pitch_keycenter=d5 hikey=f#5 lokey=b4
+<region> sample=6_Ab.wav pitch_keycenter=g#4 hikey=a#4 lokey=c4
+<region> sample=5_E.wav pitch_keycenter=e3 hikey=b3 lokey=d3
+<region> sample=4_Ab.wav pitch_keycenter=g#2 hikey=c#3

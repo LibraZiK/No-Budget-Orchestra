@@ -1,0 +1,561 @@
+<control>
+ hint_ram_based=1
+ set_cc1=0
+ set_cc11=127
+ set_cc64=0
+
+<global>
+ lfo06_wave=0
+ lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
+ lfo06_freq=8.176
+ amplitude_oncc11=100 amplitude_curvecc11=7
+
+<master>
+<group>
+ ampeg_decay=36.9926
+ ampeg_sustain=0.001
+ ampeg_release=0.35
+ loop_mode=loop_continuous
+
+///////////////////////////////////////////////////////////////////////////
+// F1
+
+<region>
+sample=1_F_a.wav
+lokey=0 hikey=30
+pitch_keycenter=29
+lovel=111 hivel=127
+ampeg_decay=25.0
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_a.wav 
+lokey=31 hikey=34
+pitch_keycenter=33
+lovel=111 hivel=127
+ampeg_decay=24.3
+
+////////////////////////////////////////////////////////////////////////////
+// Db2
+
+<region>
+sample=2_Db_a.wav
+lokey=35 hikey=38
+pitch_keycenter=37
+lovel=111 hivel=127
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// F2
+
+<region>
+sample=2_F_a.wav
+lokey=39 hikey=42
+pitch_keycenter=41
+lovel=111 hivel=127
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// A2
+
+<region>
+sample=2_A_a.wav
+lokey=43 hikey=45
+pitch_keycenter=45
+lovel=111 hivel=127
+ampeg_decay=22
+
+////////////////////////////////////////////////////////////////////////////
+// B2
+
+<region>
+sample=2_B_a.wav
+lokey=46 hikey=47
+pitch_keycenter=47
+lovel=111 hivel=127
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// db3
+
+<region>
+sample=3_Db_a.wav
+lokey=48 hikey=50
+pitch_keycenter=49
+lovel=111 hivel=127
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// f3
+
+<region>
+sample=3_F_a.wav
+lokey=51 hikey=54
+pitch_keycenter=53
+lovel=111 hivel=127
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// A3
+
+<region>
+sample=3_A_a.wav
+lokey=55 hikey=58
+pitch_keycenter=57
+lovel=111 hivel=127
+ampeg_decay=20.3
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=4_Db_a.wav
+lokey=59 hikey=62
+pitch_keycenter=61
+lovel=111 hivel=127
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// F4
+
+<region>
+sample=4_F_a.wav
+lokey=63 hikey=66
+pitch_keycenter=65
+lovel=111 hivel=127
+ampeg_decay=15.0
+
+/////////////////////////////////////////////////////////////////////////////
+// A4
+
+<region>
+sample=4_A_a.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+lovel=111 hivel=127
+ampeg_decay=10.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=5_Db_a.wav
+lokey=71 hikey=74
+pitch_keycenter=73
+lovel=111 hivel=127
+ampeg_decay=7
+
+/////////////////////////////////////////////////////////////////////////////
+// F5
+
+<region>
+sample=5_F_a.wav
+lokey=75 hikey=78
+pitch_keycenter=77
+lovel=111 hivel=127
+ampeg_decay=5
+
+/////////////////////////////////////////////////////////////////////////////
+// A5
+
+<region>
+sample=5_A_a.wav
+lokey=79 hikey=82
+pitch_keycenter=81
+lovel=111 hivel=127
+ampeg_decay=4.2
+
+/////////////////////////////////////////////////////////////////////////////
+// Db6
+
+<region>
+sample=6_Db_a.wav
+lokey=83 hikey=86
+pitch_keycenter=85
+lovel=111 hivel=127
+ampeg_decay=4
+
+/////////////////////////////////////////////////////////////////////////////
+// E6
+
+<region>
+sample=6_E_a.wav
+lokey=87 hikey=127
+pitch_keycenter=88
+lovel=111 hivel=127
+ampeg_decay=3.6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+// MP
+
+<region>
+sample=2_Bb_b.wav
+lokey=39 hikey=46
+pitch_keycenter=46
+lovel=64 hivel=110
+ampeg_decay=22.9
+
+<region>
+sample=3_C_b.wav
+lokey=47 hikey=50
+pitch_keycenter=48
+lovel=64 hivel=110
+ampeg_decay=22
+
+<region>
+sample=3_F_b.wav
+lokey=51 hikey=53
+pitch_keycenter=53
+lovel=64 hivel=110
+ampeg_decay=21.7
+
+<region>
+sample=3_Gb_b.wav
+key=54
+lovel=64 hivel=110
+ampeg_decay=21.5
+
+<region>
+sample=3_G_b.wav
+key=55
+lovel=64 hivel=110
+ampeg_decay=21.3
+
+<region>
+sample=3_Ab_b.wav
+key=56
+lovel=64 hivel=110
+ampeg_decay=20.7
+
+<region>
+sample=3_A_b.wav
+key=57
+lovel=64 hivel=110
+ampeg_decay=20.3
+
+<region>
+sample=3_Bb_b.wav
+key=58
+lovel=64 hivel=110
+ampeg_decay=20.1
+
+<region>
+sample=3_B_b.wav
+key=59
+lovel=64 hivel=110
+ampeg_decay=19.7
+
+<region>
+sample=4_C_b.wav
+key=60
+lovel=64 hivel=110
+ampeg_decay=19.3
+
+<region>
+sample=4_Db_b.wav
+key=61
+lovel=64 hivel=110
+ampeg_decay=18.9
+
+<region>
+sample=4_D_b.wav
+key=62
+lovel=64 hivel=110
+ampeg_decay=18.5
+
+<region>
+sample=4_Eb_b.wav
+key=63
+lovel=64 hivel=110
+ampeg_decay=18
+
+<region>
+sample=4_E_b.wav
+lokey=64 hikey=76
+pitch_keycenter=64
+lovel=64 hivel=110
+ampeg_decay=18
+
+<region>
+sample=6_D_b.wav
+lokey=75 hikey=86
+pitch_keycenter=86
+lovel=64 hivel=110
+ampeg_decay=4
+
+<region>
+sample=6_Eb_b.wav
+key=87
+lovel=64 hivel=110
+ampeg_decay=3.8
+
+<region>
+sample=6_E_b.wav
+key=88
+lovel=64 hivel=110
+ampeg_decay=3.6
+
+<region>
+sample=6_F_b.wav
+key=89
+lovel=64 hivel=110
+ampeg_decay=3.4
+
+<region>
+sample=6_Gb_b.wav
+key=90
+lovel=64 hivel=110
+ampeg_decay=3.2
+
+<region>
+sample=6_G_b.wav
+key=91
+lovel=64 hivel=110
+ampeg_decay=3.1
+
+<region>
+sample=6_Ab_b.wav
+key=92
+lovel=64 hivel=110
+ampeg_decay=3
+
+<region>
+sample=6_A_b.wav
+key=93
+lovel=64 hivel=110
+ampeg_decay=3
+
+<region>
+sample=6_Bb_b.wav
+key=94
+lovel=64 hivel=110
+ampeg_decay=2.8
+
+<region>
+sample=6_B_b.wav
+key=95
+lovel=64 hivel=110
+ampeg_decay=2.8
+
+<region>
+sample=7_C_b.wav
+key=96
+lovel=64 hivel=110
+ampeg_decay=2.7
+
+<region>
+sample=7_Db_b.wav
+key=97
+lovel=64 hivel=110
+ampeg_decay=2.5
+
+<region>
+sample=7_D_b.wav
+key=98
+lovel=64 hivel=110
+ampeg_decay=2.3
+
+<region>
+sample=7_Eb_b.wav
+key=99
+lovel=64 hivel=110
+ampeg_decay=2.1
+
+<region>
+sample=7_E_b.wav
+lokey=100 hikey=127
+pitch_keycenter=100
+lovel=64 hivel=110
+ampeg_decay=2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////
+// F1
+
+<region>
+sample=1_F_c.wav
+lokey=0 hikey=30
+pitch_keycenter=29
+lovel=0 hivel=110
+ampeg_decay=25.0
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_c.wav 
+lokey=31 hikey=34
+pitch_keycenter=33
+lovel=0 hivel=110
+ampeg_decay=24.3
+
+////////////////////////////////////////////////////////////////////////////
+// Db2
+
+<region>
+sample=2_Db_c.wav
+lokey=35 hikey=38
+pitch_keycenter=37
+lovel=0 hivel=110
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// F2
+
+<region>
+sample=2_F_c.wav
+lokey=39 hikey=42
+pitch_keycenter=41
+lovel=0 hivel=63
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// A2
+
+<region>
+sample=2_A_c.wav
+lokey=43 hikey=47
+pitch_keycenter=45
+lovel=0 hivel=63
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// db3
+
+<region>
+sample=3_Db_c.wav
+lokey=48 hikey=50
+pitch_keycenter=49
+lovel=0 hivel=63
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// E3
+
+<region>
+sample=3_E_c.wav
+lokey=51 hikey=54
+pitch_keycenter=52
+lovel=0 hivel=63
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// A3
+
+<region>
+sample=3_A_c.wav
+lokey=55 hikey=58
+pitch_keycenter=57
+lovel=0 hivel=63
+ampeg_decay=20.3
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=4_Db_c.wav
+lokey=59 hikey=62
+pitch_keycenter=61
+lovel=0 hivel=63
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// F4
+
+<region>
+sample=4_F_c.wav
+lokey=63 hikey=66
+pitch_keycenter=65
+lovel=0 hivel=63
+ampeg_decay=15.0
+
+/////////////////////////////////////////////////////////////////////////////
+// A4
+
+<region>
+sample=4_A_c.wav
+lokey=67 hikey=70
+pitch_keycenter=69
+lovel=0 hivel=63
+ampeg_decay=10.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=5_Db_c.wav
+lokey=71 hikey=74
+pitch_keycenter=73
+lovel=0 hivel=63
+ampeg_decay=7
+
+/////////////////////////////////////////////////////////////////////////////
+// F5
+
+<region>
+sample=5_F_c.wav
+lokey=75 hikey=78
+pitch_keycenter=77
+lovel=0 hivel=63
+ampeg_decay=5
+
+/////////////////////////////////////////////////////////////////////////////
+// A5
+
+<region>
+sample=5_A_c.wav
+lokey=79 hikey=82
+pitch_keycenter=81
+lovel=0 hivel=63
+ampeg_decay=4.2
+
+/////////////////////////////////////////////////////////////////////////////
+// Db6
+
+<region>
+sample=6_Db_c.wav
+lokey=83 hikey=86
+pitch_keycenter=85
+lovel=0 hivel=63
+ampeg_decay=4
+
+/////////////////////////////////////////////////////////////////////////////
+// E6
+
+<region>
+sample=6_E_c.wav
+lokey=87 hikey=127
+pitch_keycenter=88
+lovel=0 hivel=63
+ampeg_decay=3.6

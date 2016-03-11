@@ -1,0 +1,42 @@
+<control> default_path=Vibrato\
+<region> sample=3_G.wav hikey=55 pitch_keycenter=55
+<region> sample=3_Ab.wav key=56
+<region> sample=3_A.wav key=57
+<region> sample=3_Bb.wav key=58
+<region> sample=3_B.wav key=59
+<region> sample=4_C.wav key=60
+<region> sample=4_Db.wav key=61
+<region> sample=4_D.wav key=62
+<region> sample=4_Eb.wav key=63
+<region> sample=4_E.wav key=64
+<region> sample=4_F.wav key=65
+<region> sample=4_Gb.wav key=66
+<region> sample=4_G.wav key=67
+<region> sample=4_Ab.wav key=68
+<region> sample=4_A.wav key=69
+<region> sample=4_Bb.wav key=70
+<region> sample=4_B.wav key=71
+<region> sample=5_C.wav key=72
+<region> sample=5_Db.wav key=73
+<region> sample=5_D.wav key=74
+<region> sample=5_Eb.wav key=75
+<region> sample=5_E.wav key=76
+<region> sample=5_F.wav key=77
+<region> sample=5_Gb.wav key=78
+<region> sample=5_G.wav key=79
+<region> sample=5_Ab.wav key=80
+<region> sample=5_A.wav key=81
+<region> sample=5_Bb.wav key=82
+<region> sample=5_B.wav key=83
+<region> sample=6_C.wav key=84
+<region> sample=6_Db.wav key=85
+<region> sample=6_D.wav key=86
+<region> sample=6_Eb.wav key=87
+<region> sample=6_E.wav key=88
+<region> sample=6_F.wav key=89
+<region> sample=6_Gb.wav key=90
+<region> sample=6_G.wav key=91
+<region> sample=6_Ab.wav key=92
+<region> sample=6_A.wav key=93
+<region> sample=6_Bb.wav key=94
+<region> sample=6_B.wav lokey=95 pitch_keycenter=95

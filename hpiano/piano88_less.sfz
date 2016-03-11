@@ -1,0 +1,290 @@
+<group>
+ampeg_release=1
+hivel=77
+<region>
+sample=3_21.wav
+pitch_keycenter=21 hikey=22
+<region>
+sample=3_24.wav
+lokey=23 pitch_keycenter=24 hikey=25
+<region>
+sample=3_27.wav
+lokey=26 pitch_keycenter=27 hikey=28
+<region>
+sample=3_30.wav
+lokey=29 pitch_keycenter=30 hikey=31
+<region>
+sample=3_33.wav
+lokey=32 pitch_keycenter=33 hikey=34
+<region>
+sample=3_36.wav
+lokey=35 pitch_keycenter=36 hikey=37
+<region>
+sample=3_39.wav
+lokey=38 pitch_keycenter=39 hikey=40
+<region>
+sample=3_42.wav
+lokey=41 pitch_keycenter=42 hikey=43
+<region>
+sample=3_45.wav
+lokey=44 pitch_keycenter=45 hikey=46
+<region>
+sample=3_48.wav
+lokey=47 pitch_keycenter=48 hikey=49
+<region>
+sample=3_51.wav
+lokey=50 pitch_keycenter=51 hikey=52
+<region>
+sample=3_54.wav
+lokey=53 pitch_keycenter=54 hikey=55
+<region>
+sample=3_57.wav
+lokey=56 pitch_keycenter=57 hikey=58
+<region>
+sample=3_60.wav
+lokey=59 pitch_keycenter=60 hikey=61
+<region>
+sample=3_63.wav
+lokey=62 pitch_keycenter=63 hikey=64
+<region>
+sample=3_66.wav
+lokey=65 pitch_keycenter=66 hikey=67
+<region>
+sample=3_69.wav
+lokey=68 pitch_keycenter=69 hikey=70
+<region>
+sample=3_72.wav
+lokey=71 pitch_keycenter=72 hikey=73
+<region>
+sample=3_75.wav
+lokey=74 pitch_keycenter=75 hikey=76
+<region>
+sample=3_78.wav
+lokey=77 pitch_keycenter=78 hikey=79
+<region>
+sample=3_81.wav
+lokey=80 pitch_keycenter=81 hikey=82
+<region>
+sample=3_84.wav
+lokey=83 pitch_keycenter=84 hikey=85
+<region>
+sample=3_87.wav
+lokey=86 pitch_keycenter=87 hikey=88
+<group>
+ampeg_release=5
+hivel=77
+<region>
+sample=3_90.wav
+lokey=89 pitch_keycenter=90 hikey=91
+<region>
+sample=3_93.wav
+lokey=92 pitch_keycenter=93 hikey=94
+<region>
+sample=3_96.wav
+lokey=95 pitch_keycenter=96 hikey=97
+<region>
+sample=3_99.wav
+lokey=98 pitch_keycenter=99 hikey=100
+<region>
+sample=3_102.wav
+lokey=101 pitch_keycenter=102 hikey=103
+<region>
+sample=3_105.wav
+lokey=104 pitch_keycenter=105 hikey=106
+<region>
+sample=3_108.wav
+lokey=107 pitch_keycenter=108
+
+<group>
+ampeg_release=1
+lovel=78 hivel=103
+<region>
+sample=4_21.wav
+pitch_keycenter=21 hikey=22
+<region>
+sample=4_24.wav
+lokey=23 pitch_keycenter=24 hikey=25
+<region>
+sample=4_27.wav
+lokey=26 pitch_keycenter=27 hikey=28
+<region>
+sample=4_30.wav
+lokey=29 pitch_keycenter=30 hikey=31
+<region>
+sample=4_33.wav
+lokey=32 pitch_keycenter=33 hikey=34
+<region>
+sample=4_36.wav
+lokey=35 pitch_keycenter=36 hikey=37
+<region>
+sample=4_39.wav
+lokey=38 pitch_keycenter=39 hikey=40
+<region>
+sample=4_42.wav
+lokey=41 pitch_keycenter=42 hikey=43
+<region>
+sample=4_45.wav
+lokey=44 pitch_keycenter=45 hikey=46
+<region>
+sample=4_48.wav
+lokey=47 pitch_keycenter=48 hikey=49
+<region>
+sample=4_51.wav
+lokey=50 pitch_keycenter=51 hikey=52
+<region>
+sample=4_54.wav
+lokey=53 pitch_keycenter=54 hikey=55
+<region>
+sample=4_57.wav
+lokey=56 pitch_keycenter=57 hikey=58
+<region>
+sample=4_60.wav
+lokey=59 pitch_keycenter=60 hikey=61
+<region>
+sample=4_63.wav
+lokey=62 pitch_keycenter=63 hikey=64
+<region>
+sample=4_66.wav
+lokey=65 pitch_keycenter=66 hikey=67
+<region>
+sample=4_69.wav
+lokey=68 pitch_keycenter=69 hikey=70
+<region>
+sample=4_72.wav
+lokey=71 pitch_keycenter=72 hikey=73
+<region>
+sample=4_75.wav
+lokey=74 pitch_keycenter=75 hikey=76
+<region>
+sample=4_78.wav
+lokey=77 pitch_keycenter=78 hikey=79
+<region>
+sample=4_81.wav
+lokey=80 pitch_keycenter=81 hikey=82
+<region>
+sample=4_84.wav
+lokey=83 pitch_keycenter=84 hikey=85
+<region>
+sample=4_87.wav
+lokey=86 pitch_keycenter=87 hikey=88
+<group>
+ampeg_release=5
+lovel=78 hivel=103
+<region>
+sample=4_90.wav
+lokey=89 pitch_keycenter=90 hikey=91
+<region>
+sample=4_93.wav
+lokey=92 pitch_keycenter=93 hikey=94
+<region>
+sample=4_96.wav
+lokey=95 pitch_keycenter=96 hikey=97
+<region>
+sample=4_99.wav
+lokey=98 pitch_keycenter=99 hikey=100
+<region>
+sample=4_102.wav
+lokey=101 pitch_keycenter=102 hikey=103
+<region>
+sample=4_105.wav
+lokey=104 pitch_keycenter=105 hikey=106
+<region>
+sample=4_108.wav
+lokey=107 pitch_keycenter=108
+
+<group>
+ampeg_release=1
+lovel=104
+<region>
+sample=5_21.wav
+pitch_keycenter=21 hikey=22
+<region>
+sample=5_24.wav
+lokey=23 pitch_keycenter=24 hikey=25
+<region>
+sample=5_27.wav
+lokey=26 pitch_keycenter=27 hikey=28
+<region>
+sample=5_30.wav
+lokey=29 pitch_keycenter=30 hikey=31
+<region>
+sample=5_33.wav
+lokey=32 pitch_keycenter=33 hikey=34
+<region>
+sample=5_36.wav
+lokey=35 pitch_keycenter=36 hikey=37
+<region>
+sample=5_39.wav
+lokey=38 pitch_keycenter=39 hikey=40
+<region>
+sample=5_42.wav
+lokey=41 pitch_keycenter=42 hikey=43
+<region>
+sample=5_45.wav
+lokey=44 pitch_keycenter=45 hikey=46
+<region>
+sample=5_48.wav
+lokey=47 pitch_keycenter=48 hikey=49
+<region>
+sample=5_51.wav
+lokey=50 pitch_keycenter=51 hikey=52
+<region>
+sample=5_54.wav
+lokey=53 pitch_keycenter=54 hikey=55
+<region>
+sample=5_57.wav
+lokey=56 pitch_keycenter=57 hikey=58
+<region>
+sample=5_60.wav
+lokey=59 pitch_keycenter=60 hikey=61
+<region>
+sample=5_63.wav
+lokey=62 pitch_keycenter=63 hikey=64
+<region>
+sample=5_66.wav
+lokey=65 pitch_keycenter=66 hikey=67
+<region>
+sample=5_69.wav
+lokey=68 pitch_keycenter=69 hikey=70
+<region>
+sample=5_72.wav
+lokey=71 pitch_keycenter=72 hikey=73
+<region>
+sample=5_75.wav
+lokey=74 pitch_keycenter=75 hikey=76
+<region>
+sample=5_78.wav
+lokey=77 pitch_keycenter=78 hikey=79
+<region>
+sample=5_81.wav
+lokey=80 pitch_keycenter=81 hikey=82
+<region>
+sample=5_84.wav
+lokey=83 pitch_keycenter=84 hikey=85
+<region>
+sample=5_87.wav
+lokey=86 pitch_keycenter=87 hikey=88
+<group>
+ampeg_release=5
+lovel=104
+<region>
+sample=5_90.wav
+lokey=89 pitch_keycenter=90 hikey=91
+<region>
+sample=5_93.wav
+lokey=92 pitch_keycenter=93 hikey=94
+<region>
+sample=5_96.wav
+lokey=95 pitch_keycenter=96 hikey=97
+<region>
+sample=5_99.wav
+lokey=98 pitch_keycenter=99 hikey=100
+<region>
+sample=5_102.wav
+lokey=101 pitch_keycenter=102 hikey=103
+<region>
+sample=5_105.wav
+lokey=104 pitch_keycenter=105 hikey=106
+<region>
+sample=5_108.wav
+lokey=107 pitch_keycenter=108

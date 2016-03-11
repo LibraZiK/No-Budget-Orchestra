@@ -1,0 +1,24 @@
+<group> loop_mode=one_shot
+<region> sample=4_C.wav pitch_keycenter=c3 hikey=c3 loop_mode=loop_continuous ampeg_Sustain=.01 ampeg_decay=12 ampeg_release=12
+<region> sample=4_D.wav pitch_keycenter=d3 lokey=c#3 hikey=d3 loop_mode=loop_continuous ampeg_Sustain=.01 ampeg_decay=10 ampeg_release=10
+<region> sample=4_E.wav pitch_keycenter=e3 lokey=d#3 hikey=e3 loop_mode=loop_continuous ampeg_Sustain=.01 ampeg_decay=8 ampeg_release=8
+<region> sample=4_Gb.wav pitch_keycenter=f#3 lokey=f3 hikey=f#3
+<region> sample=4_Ab.wav pitch_keycenter=g#3 lokey=g3 hikey=g#3
+<region> sample=4_Bb.wav pitch_keycenter=a#3 lokey=a3 hikey=a#3
+<region> sample=5_C.wav pitch_keycenter=c4 lokey=b3 hikey=c4
+<region> sample=5_D.wav pitch_keycenter=d4 lokey=c4 hikey=d4
+<region> sample=5_E.wav pitch_keycenter=e4 lokey=d#4 hikey=e4
+<region> sample=5_Gb.wav pitch_keycenter=f#4 lokey=f4 hikey=f#4
+<region> sample=5_Ab.wav pitch_keycenter=g#4 lokey=g4 hikey=g#4
+<region> sample=5_Bb.wav pitch_keycenter=a#4 lokey=a4 hikey=a#4
+<region> sample=6_C.wav pitch_keycenter=c5 lokey=b4 hikey=c5
+<region> sample=6_D.wav pitch_keycenter=d5 lokey=c#5 hikey=d5
+<region> sample=6_E.wav pitch_keycenter=e5 lokey=d#5 hikey=e5
+<region> sample=6_F.wav pitch_keycenter=f5 lokey=f5 hikey=f5
+<region> sample=6_G.wav pitch_keycenter=g5 lokey=f#5 hikey=g5
+<region> sample=6_A.wav pitch_keycenter=a5 lokey=g#5 hikey=a5
+<region> sample=6_B.wav pitch_keycenter=b5 lokey=a#5 hikey=b5
+<region> sample=7_C.wav pitch_keycenter=c6 lokey=c6 hikey=c6
+<region> sample=7_D.wav pitch_keycenter=d6 lokey=c#6 hikey=d6
+<region> sample=7_E.wav pitch_keycenter=e6 lokey=d#6 hikey=e6
+<region> sample=7_F.wav pitch_keycenter=f6 lokey=f6 hikey=c7 loop_mode=loop_continuous ampeg_Sustain=.001 ampeg_decay=4 ampeg_release=4

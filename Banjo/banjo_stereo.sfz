@@ -1,0 +1,27 @@
+<group> ampeg_sustain=0.01 ampeg_release=.3 ampeg_decay=25
+<region> sample=3_D.wav pitch_keycenter=d3 lokey=a2 hikey=d3
+<region> sample=3_Eb.wav key=d#3
+<region> sample=3_E.wav key=e3
+<region> sample=3_F.wav key=f3
+<region> sample=3_Gb.wav pitch_keycenter=f#3 lokey=f#3 hikey=g3
+<region> sample=3_A.wav pitch_keycenter=a3 lokey=g#3 hikey=a3
+<region> sample=3_Bb.wav key=a#3
+<region> sample=3_B.wav key=b3
+<region> sample=4_C.wav key=c4
+<region> sample=4_Db.wav key=c#4
+<region> sample=4_D.wav key=d4
+<region> sample=4_Eb.wav key=d#4
+<region> sample=4_E.wav key=e4
+<region> sample=4_F.wav key=f4
+<region> sample=4_Gb.wav key=f#4
+<region> sample=4_G.wav key=g4
+<region> sample=4_Ab.wav key=g#4
+<region> sample=4_A.wav key=a4
+<region> sample=4_Bb.wav key=a#4
+<region> sample=4_B.wav key=b4
+<region> sample=5_C.wav pitch_keycenter=c5 lokey=c5 hikey=d#5
+<region> sample=5_E.wav pitch_keycenter=e5 lokey=d#5 hikey=e5
+<region> sample=5_Gb.wav pitch_keycenter=f#5 lokey=f5 hikey=g#5
+<region> sample=5_B.wav pitch_keycenter=b5 lokey=a5 hikey=c6
+<region> sample=6_D.wav pitch_keycenter=d6 lokey=c#6 hikey=d6
+<region> sample=6_E.wav pitch_keycenter=e6 lokey=d#6 hikey=g6

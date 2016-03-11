@@ -1,0 +1,4 @@
+<control> default_path=Block\
+<group> loop_mode=one_shot key=76 seq_length=2
+<region> sample=block1.wav
+<region> sample=block2.wav seq_position=2

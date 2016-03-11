@@ -1,0 +1,23 @@
+<control> default_path=SleighBell\
+<group> group=30 off_by=30 off_mode=fast ampeg_release=30 loop_mode=one_shot key=83
+seq_length=5
+<region> sample=ff_1.wav trigger=first lovel=100
+<region> sample=ff_2.wav seq_position=2 trigger=first lovel=100
+<region> sample=ff_3.wav seq_position=3 trigger=first lovel=100
+<region> sample=ff_4.wav seq_position=4 trigger=first lovel=100
+<region> sample=ff_5.wav seq_position=5 trigger=first lovel=100
+<region> sample=ff_1.wav trigger=legato offset=1352 lovel=100
+<region> sample=ff_2.wav seq_position=2 trigger=legato offset=1352 lovel=100
+<region> sample=ff_3.wav seq_position=3 trigger=legato offset=1352 lovel=100
+<region> sample=ff_4.wav seq_position=4 trigger=legato offset=1352 lovel=100
+<region> sample=ff_5.wav seq_position=5 trigger=legato offset=1352 lovel=100
+<region> sample=f_1.wav trigger=first hivel=99
+<region> sample=f_2.wav seq_position=2 trigger=first hivel=99
+<region> sample=f_3.wav seq_position=3 trigger=first hivel=99
+<region> sample=f_4.wav seq_position=4 trigger=first hivel=99
+<region> sample=f_5.wav seq_position=5 trigger=first hivel=99
+<region> sample=f_1.wav trigger=legato offset=1352 hivel=99
+<region> sample=f_2.wav seq_position=2 trigger=legato offset=1352 hivel=99
+<region> sample=f_3.wav seq_position=3 trigger=legato offset=1352 hivel=99
+<region> sample=f_4.wav seq_position=4 trigger=legato offset=1352 hivel=99
+<region> sample=f_5.wav seq_position=5 trigger=legato offset=1352 hivel=99

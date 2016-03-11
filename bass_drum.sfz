@@ -1,0 +1,10 @@
+<control> default_path=OrchBassDrum\
+<group> loop_mode=one_shot seq_length=2 key=36
+<region> sample=ff1.wav lovel=105
+<region> sample=ff2.wav lovel=105 seq_position=2
+<region> sample=f1.wav lovel=80 hivel=104
+<region> sample=f2.wav lovel=80 hivel=104 seq_position=2
+<region> sample=mf1.wav lovel=49 hivel=79
+<region> sample=mf2.wav lovel=49 hivel=79 seq_position=2
+<region> sample=mp1.wav hivel=48
+<region> sample=mp2.wav hivel=48 seq_position=2

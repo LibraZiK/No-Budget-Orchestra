@@ -1,0 +1,5 @@
+<control> default_path=Cowbell\1\
+<group> group=45 off_by=45 loop_mode=one_shot key=56 seq_length=3
+<region> sample=cowbell_1.wav
+<region> sample=cowbell_2.wav seq_position=2
+<region> sample=cowbell_3.wav seq_position=3

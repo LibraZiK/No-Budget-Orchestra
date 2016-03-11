@@ -1,0 +1,26 @@
+<control> default_path=Castanets\
+<group> key=85 loop_mode=one_shot seq_length=4 lovel=50 group=40 off_by=41
+<region> sample=castanets_f1.wav seq_position=1 lovel=90
+<region> sample=castanets_f2.wav seq_position=2 lovel=90
+<region> sample=castanets_f3.wav seq_position=3 lovel=90
+<region> sample=castanets_f4.wav seq_position=4 lovel=90
+<region> sample=castanets_mf1.wav seq_position=1 hivel=89
+<region> sample=castanets_mf2.wav seq_position=2 hivel=89
+<region> sample=castanets_mf3.wav seq_position=3 hivel=89
+<region> sample=castanets_mf4.wav seq_position=4 hivel=89
+<group> key=85 loop_mode=one_shot seq_length=2 hivel=49 group=41 off_by=40
+<region> sample=castanets_p1.wav seq_position=1
+<region> sample=castanets_p2.wav seq_position=2
+
+<group> key=39 loop_mode=one_shot seq_length=4 lovel=50 group=40 off_by=41
+<region> sample=castanets_f1.wav seq_position=1 lovel=90
+<region> sample=castanets_f2.wav seq_position=2 lovel=90
+<region> sample=castanets_f3.wav seq_position=3 lovel=90
+<region> sample=castanets_f4.wav seq_position=4 lovel=90
+<region> sample=castanets_mf1.wav seq_position=1 hivel=89
+<region> sample=castanets_mf2.wav seq_position=2 hivel=89
+<region> sample=castanets_mf3.wav seq_position=3 hivel=89
+<region> sample=castanets_mf4.wav seq_position=4 hivel=89
+<group> key=39 loop_mode=one_shot seq_length=2 hivel=49 group=41 off_by=40
+<region> sample=castanets_p1.wav seq_position=1
+<region> sample=castanets_p2.wav seq_position=2

@@ -1,0 +1,9 @@
+<group> loop_mode=one_shot
+<region> sample=2_B.wav pitch_keycenter=b2 lokey=e2 hikey=c3
+<region> sample=3_D.wav pitch_keycenter=d3 lokey=c#3 hikey=d3
+<region> sample=3_E_.wav pitch_keycenter=e3 lokey=d#3 hikey=e3
+<region> sample=3_F.wav pitch_keycenter=f3 lokey=f3 hikey=f#3
+<region> sample=3_G.wav pitch_keycenter=g3 lokey=g3 hikey=g3
+<region> sample=3_Ab.wav pitch_keycenter=g#3 lokey=g#3 hikey=g#3
+<region> sample=3_A.wav pitch_keycenter=a3 lokey=a3 hikey=a3
+<region> sample=3_B.wav pitch_keycenter=b3 lokey=a#3 hikey=e4

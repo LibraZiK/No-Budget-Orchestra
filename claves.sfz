@@ -1,0 +1,4 @@
+<control> default_path=Claves\
+<group> loop_mode=one_shot key=75 seq_length=2
+<region> sample=claves1.wav
+<region> sample=claves2.wav seq_position=2

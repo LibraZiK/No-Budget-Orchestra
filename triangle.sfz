@@ -1,0 +1,7 @@
+<control> default_path=Triangle\
+<group> key=81 loop_mode=one_shot group=20 off_by=21
+<region> sample=triangle_f.wav lovel=105
+<region> sample=triangle_mf.wav lovel=50 hivel=104
+<region> sample=triangle_p.wav hivel=49
+<group> key=80 loop_mode=one_shot group=21 off_by=20
+<region> sample=triangle_m.wav

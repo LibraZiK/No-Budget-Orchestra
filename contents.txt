@@ -1,0 +1,315 @@
+=======================================
+Bass
+=======================================
+
+picked1
+	Rickenbacker bass played with a pick. Also slapped and muted articulations.
+
+fenderbass
+	Fender Precision played with fingers.
+
+fender_bass
+	Fender Precision.
+
+ibanez_bass
+	Ibanez bass played with a pick.
+
+gretsch_bass
+	Stereo Gretsch bass played with fingers.
+
+deepbass
+	Deep stereo fender precision sound, played with a pick.
+
+pastabass
+	A stereo electric bass with a pronounced pick attack. This helps cut through a rock mix where you have lots of bass-heavy distorted guitar "power chords".
+
+
+fretless_bass
+	Stereo fretless.
+
+acousbass
+	Stereo acoustic plucked (jazz) bass.
+
+jazzbass
+	Stereo acoustic plucked (jazz) bass.
+
+bass_bow
+	Stereo acoustic bowed (contra) bass.
+
+moog_bass
+	Moog synth pedals.
+
+synth_bass
+	Stereo staccato synth.
+
+fatsynthbass
+	A really "fat" version of synth_bass.
+
+brightbass
+	Stereo bright, sustained synth.
+
+analog_bass
+	A stereo synth sound like a fender.
+
+=======================================
+Guitars
+=======================================
+
+nylon
+	Stereo acoustic nylon string.
+
+yamahagtr
+	Clean Gibson Les Paul electric sound. Also mute and hammer-on.
+
+stereo_lespaul
+	Stereo (2 channel) clean Les Paul (Gibson) electric guitar. Sustained, muted, hammer-on, and harmonic notes, chord thrums, and fret noises.
+
+strat
+	Stereo clean Fender stratocaster electric. Also mute and hammer-on.
+
+steelgtr
+	Stereo acoustic steel string.
+
+banjo
+
+=======================================
+Brass
+=======================================
+
+altosax
+	Solo alto sax.
+
+tenorsax
+	Stereo solo tenor sax.
+
+sax_sect
+	Stereo saxophone ensemble.
+
+trumpet
+	Stereo solo Bb trumpet.
+
+trumpet_mute
+	Solo trumpet played with a mute.
+
+trumpet_sect
+	Stereo orchestral trumpet section.
+
+solohorn
+	Solo french horn.
+
+french_horn_sect
+	Stereo orchestral french horn section.
+
+trombone_sect
+	Stereo orchestral trombone section.
+
+tuba_sect
+	Stereo orchestral tuba section. Also a solo tuba (mono).
+
+synthbrass
+	Stereo synthesized horn ensemble.
+
+=======================================
+Woodwinds
+=======================================
+
+flute
+	Stereo solo Bb flute.
+
+flute_sect
+	Stereo orchestral flute section.
+
+clarinet
+	Stereo solo Bb clarinet.
+
+clarinet_sect
+	Stereo orchestral clarinet section.
+
+solobassoon
+	Stereo solo bassoon.
+
+bassoon_sect
+	Stereo orchestral bassoon section.
+
+oboe_sect
+	Stereo orchestral oboe section. Also solo oboe.
+
+recorder
+	Stereo soprano/alto recorder.
+
+=======================================
+Strings
+=======================================
+
+soloviolin
+	Stereo solo violin played legato, pizzicato, tremulo, and spiccato.
+
+soloviolin2
+	Stereo solo violin played legato.
+
+viola
+	Stereo solo viola played legato and pizzicato.
+
+jg_violins
+	Stereo legato and pizzicato orchestral violin section.
+
+cello
+	Stereo solo cello played legato.
+
+cellos
+	Stereo legato and pizzicato orchestral cello section.
+
+bass_sect
+	Stereo legato and pizzicato orchestral doublebass section.
+
+synth_strings
+	Bright lush stereo string synth (i.e. Van Halen's "Jump").
+
+warmpad
+	Stereo string synth with subdued high end.
+
+warmpad2
+	Slightly brighter version of warmpad.
+
+mellowtron
+	The infamous "string machine" used throughout the late 60s and early 70s. Not samples of a real one, but rather a stereo facsimile. I call it the "mellowtron".
+
+=======================================
+Organs
+=======================================
+
+60s_organ
+	1960's Vox/Farfisa organ, like The Doors, or "House of the Rising Sun". Stereo/mono versions.
+
+b3_organ
+	Stereo Hammond B3 with slow leslie.
+
+calliope
+	Like a pipe organ with only a (very "breathy") flute stop.
+
+=======================================
+Pianos
+=======================================
+
+LittleLizardPiano
+	A version of the "Salamander" Steinway acoustic grand piano, greatly reduced in RAM size.
+
+hpiano
+	The "Headline" Steinway acoustic grand piano.
+
+StereoWurly
+	Stereo Wurtlitzer electric piano.
+
+wurt
+	Mono Wurtlitzer electric piano.
+
+rhodes
+	Fender Rhodes electric piano.
+
+stereo_rhodes
+	Stereo Fender Rhodes electric piano with more vel layers.
+
+dx7_piano
+	Stereo FM synth (DX7) electric piano.
+
+clavinet
+	Stereo clav.
+
+harpsichord
+	Stereo harpsichord.
+
+=======================================
+Drums
+=======================================
+
+Black_Pearl_Drumkits
+AVL_Drumkits
+	GMaq's studio kits.
+
+african_drum
+	A hand-played skin-headed drum. 3 articulations.
+
+kicks
+	Assortment of kick drums.
+
+snares
+	Assortment of snare drums.
+
+hihats
+	Assortment of hihats.
+
+toms
+	Assortment of toms.
+
+ride, ride2
+	Assortment of ride cymbals.
+
+brushkit
+	A kit played with brushes.
+
+gmkit
+	Full General MIDI kit.
+
+nsa
+	The various drums/cymbals in the "NSA" kits.
+
+SalamanderDrumkit
+        Acoustic drumkit by the author of the Salamander Piano
+
+shaker
+	A latin shaker with "up" and "down" (2) articulations.
+
+tabla
+	Indian percussion. 6 articulations (Ghe Open/Bend, Na, Tin, Ta, Taka).
+
+timpani
+	A timpani played over an octave.
+
+timbales.
+	High and low pitched (two) timbales.
+
+=======================================
+Other
+=======================================
+
+accordion
+	Stereo accordion.
+
+chimes
+	Stereo orchestral chimes (tubular bells).
+
+glock
+	Stereo glockenspiel.
+
+SoftBells
+	Soft bell instrument, like a celeste with sustain.
+
+cowbell
+	Steel cowbell.
+
+marimba
+	A stereo marimba.
+
+harmonica
+	Stereo diatonic harmonica.
+
+melodica
+	A harmonica-like instrument played with piano-style keys.
+
+vibes
+	Stereo vibraphone.
+
+xylophone
+	Stereo xylophone.
+
+blocks
+	Temple blocks.
+
+claps
+	Stereo handclaps.
+
+orchperc
+	Various stereo orchestral percussion including clash cymbal, tambourine, castanets, bass drum, maracas, cabasa, block, sleigh (jingle) bells, cowbell.
+
+sonatina
+	The full Sonatina symphony orchestra.

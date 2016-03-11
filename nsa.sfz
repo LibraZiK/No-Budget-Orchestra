@@ -1,0 +1,392 @@
+<group>
+key=42
+seq_length=2
+volume=-15
+group=1
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HiHat/Closed1a.wav
+hivel=100
+<region>
+sample=HiHat/Closed1b.wav seq_position=2
+hivel=100
+<region>
+sample=HiHat/Closed1c.wav
+lovel=101
+<region>
+sample=HiHat/Closed1d.wav seq_position=2
+lovel=101
+
+<group>
+key=44
+seq_length=2
+volume=-19
+group=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HiHat/Pedal1a.wav
+<region>
+sample=HiHat/Pedal1b.wav seq_position=2
+
+<group>
+volume=-12
+key=46
+off_mode=normal off_by=1 off_by=2
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HiHat/Open1a.wav
+<region>
+sample=HiHat/Open1b.wav seq_position=2
+
+<group>
+key=54
+seq_length=2
+volume=-15
+off_mode=normal off_by=1 off_by=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_decay=30
+<region>
+sample=HiHat/Half1a.wav
+hivel=100
+<region>
+sample=HiHat/Half1b.wav seq_position=2
+hivel=100
+<region>
+sample=HiHat/Half1c.wav
+lovel=101
+<region>
+sample=HiHat/Half1d.wav seq_position=2
+lovel=101
+
+<group>
+key=38
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Snare/Stereo2/1_LI.wav
+lovel=0 hivel=17
+<region>
+sample=Snare/Stereo2/1_RI.wav seq_position=2
+lovel=0 hivel=17
+<region>
+sample=Snare/Stereo2/2_LI.wav
+lovel=18 hivel=36
+<region>
+sample=Snare/Stereo2/2_RI.wav seq_position=2
+lovel=18 hivel=36
+<region>
+sample=Snare/Stereo2/3_LI.wav
+lovel=37 hivel=52
+<region>
+sample=Snare/Stereo2/3_RI.wav seq_position=2
+lovel=37 hivel=52
+<region>
+sample=Snare/Stereo2/4_LI.wav
+lovel=53 hivel=70
+<region>
+sample=Snare/Stereo2/4_RI.wav seq_position=2
+lovel=53 hivel=70
+<region>
+sample=Snare/Stereo2/5_LI.wav
+lovel=71 hivel=87
+<region>
+sample=Snare/Stereo2/5_RI.wav seq_position=2
+lovel=71 hivel=87
+<region>
+sample=Snare/Stereo2/6_LI.wav
+lovel=88 hivel=105
+<region>
+sample=Snare/Stereo2/6_RI.wav seq_position=2
+lovel=88 hivel=105
+<region>
+sample=Snare/Stereo2/7_LI.wav
+lovel=106 hivel=127
+<region>
+sample=Snare/Stereo2/7_RI.wav seq_position=2
+lovel=106 hivel=127
+
+<group>
+key=40
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Snare/Stereo2/Rim_1.wav
+lovel=0 hivel=49
+<region>
+sample=Snare/Stereo2/Rim_1b.wav seq_position=2
+lovel=0 hivel=49
+<region>
+sample=Snare/Stereo2/Rim_2.wav
+lovel=50 hivel=98
+<region>
+sample=Snare/Stereo2/Rim_2b.wav seq_position=2
+lovel=50 hivel=98
+<region>
+sample=Snare/Stereo2/Rim_3.wav
+lovel=99 hivel=127
+<region>
+sample=Snare/Stereo2/Rim_3b.wav seq_position=2
+lovel=99 hivel=127
+
+<group>
+key=37
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Snare/Stereo2/SStick_1.wav
+<region>
+sample=Snare/Stereo2/SStick_2.wav seq_position=2
+
+<group>
+lokey=35 hikey=36 pitch_keycenter=36
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Kick/1a.wav
+lovel=0 hivel=24
+<region>
+sample=Kick/1b.wav seq_position=2
+lovel=0 hivel=24
+<region>
+sample=Kick/2a.wav
+lovel=25 hivel=48
+<region>
+sample=Kick/2b.wav seq_position=2
+lovel=25 hivel=48
+<region>
+sample=Kick/3a.wav
+lovel=49 hivel=70
+<region>
+sample=Kick/3b.wav seq_position=2
+lovel=49 hivel=70
+<region>
+sample=Kick/4a.wav
+lovel=71 hivel=94
+<region>
+sample=Kick/4b.wav seq_position=2
+lovel=71 hivel=94
+<region>
+sample=Kick/5a.wav
+lovel=95 hivel=112
+<region>
+sample=Kick/5b.wav seq_position=2
+lovel=95 hivel=112
+<region>
+sample=Kick/6a.wav
+lovel=113 hivel=127
+<region>
+sample=Kick/6b.wav seq_position=2
+lovel=113 hivel=127
+
+<group>
+key=50
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom1/1_stereo.wav
+lovel=0 hivel=24
+<region>
+sample=Tom/Tom1/2_stereo.wav
+lovel=25 hivel=48
+<region>
+sample=Tom/Tom1/3_stereo.wav
+lovel=49 hivel=70
+<region>
+sample=Tom/Tom1/4_stereo.wav
+lovel=71 hivel=94
+<region>
+sample=Tom/Tom1/5_stereo.wav
+lovel=95 hivel=127
+
+<group>
+key=48
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom2/1_stereo.wav
+lovel=0 hivel=24
+<region>
+sample=Tom/Tom2/2_stereo.wav
+lovel=25 hivel=48
+<region>
+sample=Tom/Tom2/3_stereo.wav
+lovel=49 hivel=70
+<region>
+sample=Tom/Tom2/4_stereo.wav
+lovel=71 hivel=94
+<region>
+sample=Tom/Tom2/5_stereo.wav
+lovel=95 hivel=127
+
+<group>
+key=47
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=12
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom3/1_stereo.wav
+lovel=0 hivel=17
+<region>
+sample=Tom/Tom3/2_stereo.wav
+lovel=18 hivel=35
+<region>
+sample=Tom/Tom3/3_stereo.wav
+lovel=36 hivel=53
+<region>
+sample=Tom/Tom3/4_stereo.wav
+lovel=54 hivel=70
+<region>
+sample=Tom/Tom3/5_stereo.wav
+lovel=71 hivel=97
+<region>
+sample=Tom/Tom3/6_stereo.wav
+lovel=98 hivel=114
+<region>
+sample=Tom/Tom3/7_stereo.wav
+lovel=115 hivel=127
+
+<group>
+key=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=16
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom4/1_stereo.wav
+lovel=0 hivel=22
+<region>
+sample=Tom/Tom4/2_stereo.wav
+lovel=23 hivel=44
+<region>
+sample=Tom/Tom4/3_stereo.wav
+lovel=45 hivel=66
+<region>
+sample=Tom/Tom4/4_stereo.wav
+lovel=67 hivel=88
+<region>
+sample=Tom/Tom4/5_stereo.wav
+lovel=89 hivel=110
+<region>
+sample=Tom/Tom4/6_stereo.wav
+lovel=111 hivel=127
+
+<group>
+key=43
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=20
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom5/1_stereo.wav
+lovel=0 hivel=22
+<region>
+sample=Tom/Tom5/2_stereo.wav
+lovel=23 hivel=44
+<region>
+sample=Tom/Tom5/3_stereo.wav
+lovel=45 hivel=66
+<region>
+sample=Tom/Tom5/4_stereo.wav
+lovel=67 hivel=88
+<region>
+sample=Tom/Tom5/5_stereo.wav
+lovel=89 hivel=110
+<region>
+sample=Tom/Tom5/6_stereo.wav
+lovel=111 hivel=127
+
+<group>
+key=41
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=24
+loop_mode=loop_continuous
+<region>
+sample=Tom/Tom6/1_stereo.wav
+lovel=0 hivel=37
+<region>
+sample=Tom/Tom6/2_stereo.wav
+lovel=38 hivel=72
+<region>
+sample=Tom/Tom6/3_stereo.wav
+lovel=73 hivel=101
+<region>
+sample=Tom/Tom6/4_stereo.wav
+lovel=102 hivel=127
+
+<group>
+key=49
+volume=-10
+seq_length=2
+pan=80
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/18/crash.wav
+<region>
+sample=Cymbal/19/crash.wav seq_position=2
+
+<group>
+key=52
+volume=-10
+pan=40
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/China/crash.wav
+
+<group>
+key=51
+volume=-8
+seq_length=2
+pan=60
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/Ride20/bow1.wav
+lovel=0 hivel=49
+<region>
+sample=Cymbal/Ride20/edge1.wav seq_position=2
+lovel=0 hivel=49
+<region>
+sample=Cymbal/Ride20/bow2.wav
+lovel=50 hivel=98
+<region>
+sample=Cymbal/Ride20/edge2.wav seq_position=2
+lovel=50 hivel=98
+<region>
+sample=Cymbal/Ride20/bow3.wav
+lovel=99 hivel=127
+<region>
+sample=Cymbal/Ride20/edge3.wav seq_position=2
+lovel=99 hivel=127
+
+<group>
+key=53
+pan=60
+volume=-8
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/Ride20/bell1.wav
+lovel=0 hivel=49
+<region>
+sample=Cymbal/Ride20/bell2.wav
+lovel=50 hivel=98
+<region>
+sample=Cymbal/Ride20/bell3.wav
+lovel=99 hivel=127
+
+<group>
+key=55
+volume=-12
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/Splash8/bow1.wav
+lovel=0 hivel=49
+<region>
+sample=Cymbal/Splash8/bow2.wav
+lovel=50 hivel=98
+<region>
+sample=Cymbal/Splash8/bow3.wav
+lovel=99 hivel=127
+
+<group>
+key=57
+pan=-80
+volume=-10
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cymbal/16/crash1.wav
+<region>
+sample=Cymbal/16/crash1a.wav seq_position=2

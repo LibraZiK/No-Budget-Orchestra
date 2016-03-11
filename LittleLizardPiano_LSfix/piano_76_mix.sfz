@@ -1,0 +1,939 @@
+//=====================================
+// Tiny Lizard Piano
+// Author: Alexander Holm
+// Contact: axeldenstore [at] gmail [dot] com
+// License: CC-by
+//=====================================
+
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=0.850
+ampeg_decay=22
+lovel=1 hivel=64
+<region>
+sample=samples\F#1v7.wav
+pitch_keycenter=30 lokey=21 hikey=31
+ampeg_decay=82.3
+<region>
+sample=samples\A1v7.wav
+pitch_keycenter=33 lokey=32 hikey=34
+ampeg_decay=81.9
+<region>
+sample=samples\C2v7.wav
+pitch_keycenter=36 lokey=35 hikey=37
+ampeg_decay=81.8
+<region>
+sample=samples\D#2v7.wav
+pitch_keycenter=39 lokey=38 hikey=40
+ampeg_decay=81.6
+<region>
+sample=samples\F#2v7.wav
+pitch_keycenter=42 lokey=41 hikey=43
+ampeg_decay=81.4
+<region>
+sample=samples\A2v7.wav
+pitch_keycenter=45 lokey=44 hikey=46
+ampeg_decay=80.7
+<region>
+sample=samples\C3v7.wav
+pitch_keycenter=48 lokey=47 hikey=49
+ampeg_decay=80.2
+<region>
+sample=samples\D#3v7.wav
+pitch_keycenter=51 lokey=50 hikey=52
+ampeg_decay=78.9
+<region>
+sample=samples\F#3v7.wav
+pitch_keycenter=54 lokey=53 hikey=55
+ampeg_decay=74
+<region>
+sample=samples\A3v7.wav
+pitch_keycenter=57 lokey=56 hikey=58
+ampeg_decay=71.3
+<region>
+sample=samples\C4v7.wav
+pitch_keycenter=60 lokey=59 hikey=61
+ampeg_decay=70
+<region>
+sample=samples\D#4v7.wav
+pitch_keycenter=63 lokey=62 hikey=64
+ampeg_decay=64.5
+<region>
+sample=samples\F#4v7.wav
+pitch_keycenter=66 lokey=65 hikey=67
+ampeg_decay=60.1
+<region>
+sample=samples\A4v7.wav
+pitch_keycenter=69 lokey=68 hikey=70
+ampeg_decay=60.1
+<region>
+sample=samples\C5v7.wav
+pitch_keycenter=72 lokey=71 hikey=73
+ampeg_decay=30
+<region>
+sample=samples\D#5v7.wav
+pitch_keycenter=75 lokey=74 hikey=76
+ampeg_decay=25
+<region>
+sample=samples\F#5v7.wav
+pitch_keycenter=78 lokey=77 hikey=79
+ampeg_decay=20
+<region>
+sample=samples\A5v7.wav
+pitch_keycenter=81 lokey=80 hikey=82
+//ampeg_decay=22
+<region>
+sample=samples\C6v7.wav
+pitch_keycenter=84 lokey=83 hikey=85
+//ampeg_decay=13
+<region>
+sample=samples\D#6v7.wav
+pitch_keycenter=87 lokey=86 hikey=88
+//ampeg_decay=13
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=5
+ampeg_decay=22
+lovel=49 hivel=64
+<region>
+sample=samples\F#6v7.wav
+pitch_keycenter=90 lokey=89 hikey=91
+//ampeg_decay=13
+<region>
+sample=samples\A6v7.wav
+pitch_keycenter=93 lokey=92 hikey=94
+//ampeg_decay=13
+<region>
+sample=samples\C7v7.wav
+pitch_keycenter=96 lokey=95 hikey=97
+//ampeg_decay=13
+<region>
+sample=samples\D#7v7.wav
+pitch_keycenter=99 lokey=98 hikey=100
+//ampeg_decay=13
+<region>
+sample=samples\F#7v7.wav
+pitch_keycenter=102 lokey=101 hikey=127
+
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=0.850
+ampeg_decay=22
+lovel=65 hivel=80
+<region>
+sample=samples\F#1v9.wav
+pitch_keycenter=30 lokey=21 hikey=31
+ampeg_decay=82.4
+<region>
+sample=samples\A1v9.wav
+pitch_keycenter=33 lokey=32 hikey=34
+ampeg_decay=82.0
+<region>
+sample=samples\C2v9.wav
+pitch_keycenter=36 lokey=35 hikey=37
+ampeg_decay=81.9
+<region>
+sample=samples\D#2v9.wav
+pitch_keycenter=39 lokey=38 hikey=40
+ampeg_decay=81.7
+<region>
+sample=samples\F#2v9.wav
+pitch_keycenter=42 lokey=41 hikey=43
+ampeg_decay=81.5
+<region>
+sample=samples\A2v9.wav
+pitch_keycenter=45 lokey=44 hikey=46
+ampeg_decay=80.8
+<region>
+sample=samples\C3v9.wav
+pitch_keycenter=48 lokey=47 hikey=49
+ampeg_decay=80.3
+<region>
+sample=samples\D#3v9.wav
+pitch_keycenter=51 lokey=50 hikey=52
+ampeg_decay=79.0
+<region>
+sample=samples\F#3v9.wav
+pitch_keycenter=54 lokey=53 hikey=55
+ampeg_decay=74
+<region>
+sample=samples\A3v9.wav
+pitch_keycenter=57 lokey=56 hikey=58
+ampeg_decay=71.3
+<region>
+sample=samples\C4v9.wav
+pitch_keycenter=60 lokey=59 hikey=61
+ampeg_decay=70.0
+<region>
+sample=samples\D#4v9.wav
+pitch_keycenter=63 lokey=62 hikey=64
+ampeg_decay=64.5
+<region>
+sample=samples\F#4v9.wav
+pitch_keycenter=66 lokey=65 hikey=67
+ampeg_decay=60.1
+<region>
+sample=samples\A4v9.wav
+pitch_keycenter=69 lokey=68 hikey=70
+ampeg_decay=62.7
+<region>
+sample=samples\C5v9.wav
+pitch_keycenter=72 lokey=71 hikey=73
+ampeg_decay=30
+<region>
+sample=samples\D#5v9.wav
+pitch_keycenter=75 lokey=74 hikey=76
+ampeg_decay=25
+<region>
+sample=samples\F#5v9.wav
+pitch_keycenter=78 lokey=77 hikey=79
+ampeg_decay=20
+<region>
+sample=samples\A5v9.wav
+pitch_keycenter=81 lokey=80 hikey=82
+//ampeg_decay=22
+<region>
+sample=samples\C6v9.wav
+pitch_keycenter=84 lokey=83 hikey=85
+//ampeg_decay=13
+<region>
+sample=samples\D#6v9.wav
+pitch_keycenter=87 lokey=86 hikey=88
+//ampeg_decay=13
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=5
+ampeg_decay=22
+lovel=65 hivel=80
+<region>
+sample=samples\F#6v9.wav
+pitch_keycenter=90 lokey=89 hikey=91
+//ampeg_decay=13
+<region>
+sample=samples\A6v9.wav
+pitch_keycenter=93 lokey=92 hikey=94
+//ampeg_decay=13
+<region>
+sample=samples\C7v9.wav
+pitch_keycenter=96 lokey=95 hikey=97
+//ampeg_decay=13
+<region>
+sample=samples\D#7v9.wav
+pitch_keycenter=99 lokey=98 hikey=100
+//ampeg_decay=13
+<region>
+sample=samples\F#7v9.wav
+pitch_keycenter=102 lokey=101 hikey=127
+
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=0.850
+lovel=81 hivel=96
+ampeg_decay=22
+<region>
+sample=samples\F#1v11.wav
+pitch_keycenter=30 lokey=21 hikey=31
+ampeg_decay=82.5
+<region>
+sample=samples\A1v11.wav
+pitch_keycenter=33 lokey=32 hikey=34
+ampeg_decay=82.1
+<region>
+sample=samples\C2v11.wav
+pitch_keycenter=36 lokey=35 hikey=37
+ampeg_decay=81.9
+<region>
+sample=samples\D#2v11.wav
+pitch_keycenter=39 lokey=38 hikey=40
+ampeg_decay=81.7
+<region>
+sample=samples\F#2v11.wav
+pitch_keycenter=42 lokey=41 hikey=43
+ampeg_decay=81.5
+<region>
+sample=samples\A2v11.wav
+pitch_keycenter=45 lokey=44 hikey=46
+ampeg_decay=80.9
+<region>
+sample=samples\C3v11.wav
+pitch_keycenter=48 lokey=47 hikey=49
+ampeg_decay=80.4
+<region>
+sample=samples\D#3v11.wav
+pitch_keycenter=51 lokey=50 hikey=52
+ampeg_decay=79.1
+<region>
+sample=samples\F#3v11.wav
+pitch_keycenter=54 lokey=53 hikey=55
+ampeg_decay=74
+<region>
+sample=samples\A3v11.wav
+pitch_keycenter=57 lokey=56 hikey=58
+ampeg_decay=71.3
+<region>
+sample=samples\C4v11.wav
+pitch_keycenter=60 lokey=59 hikey=61
+ampeg_decay=70.0
+<region>
+sample=samples\D#4v11.wav
+pitch_keycenter=63 lokey=62 hikey=64
+ampeg_decay=64.5
+<region>
+sample=samples\F#4v11.wav
+pitch_keycenter=66 lokey=65 hikey=67
+ampeg_decay=60.1
+<region>
+sample=samples\A4v11.wav
+pitch_keycenter=69 lokey=68 hikey=70
+ampeg_decay=62.7
+<region>
+sample=samples\C5v11.wav
+pitch_keycenter=72 lokey=71 hikey=73
+ampeg_decay=30
+<region>
+sample=samples\D#5v11.wav
+pitch_keycenter=75 lokey=74 hikey=76
+ampeg_decay=25
+<region>
+sample=samples\F#5v11.wav
+pitch_keycenter=78 lokey=77 hikey=79
+ampeg_decay=20
+<region>
+sample=samples\A5v11.wav
+pitch_keycenter=81 lokey=80 hikey=82
+//ampeg_decay=22
+<region>
+sample=samples\C6v11.wav
+pitch_keycenter=84 lokey=83 hikey=85
+//ampeg_decay=13
+<region>
+sample=samples\D#6v11.wav
+pitch_keycenter=87 lokey=86 hikey=88
+//ampeg_decay=13
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=5
+lovel=81 hivel=96
+ampeg_decay=22
+<region>
+sample=samples\F#6v11.wav
+pitch_keycenter=90 lokey=89 hikey=91
+//ampeg_decay=13
+<region>
+sample=samples\A6v11.wav
+pitch_keycenter=93 lokey=92 hikey=94
+//ampeg_decay=13
+<region>
+sample=samples\C7v11.wav
+pitch_keycenter=96 lokey=95 hikey=97
+//ampeg_decay=13
+<region>
+sample=samples\D#7v11.wav
+pitch_keycenter=99 lokey=98 hikey=100
+//ampeg_decay=13
+<region>
+sample=samples\F#7v11.wav
+pitch_keycenter=102 lokey=101 hikey=127
+
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=0.850
+ampeg_decay=22
+lovel=97 hivel=112
+<region>
+sample=samples\F#1v13.wav
+pitch_keycenter=30 lokey=21 hikey=31
+ampeg_decay=82.7
+<region>
+sample=samples\A1v13.wav
+pitch_keycenter=33 lokey=32 hikey=34
+ampeg_decay=82.2
+<region>
+sample=samples\C2v13.wav
+pitch_keycenter=36 lokey=35 hikey=37
+ampeg_decay=82.0
+<region>
+sample=samples\D#2v13.wav
+pitch_keycenter=39 lokey=38 hikey=40
+ampeg_decay=81.8
+<region>
+sample=samples\F#2v13.wav
+pitch_keycenter=42 lokey=41 hikey=43
+ampeg_decay=81.6
+<region>
+sample=samples\A2v13.wav
+pitch_keycenter=45 lokey=44 hikey=46
+ampeg_decay=81.2
+<region>
+sample=samples\C3v13.wav
+pitch_keycenter=48 lokey=47 hikey=49
+ampeg_decay=80.7
+<region>
+sample=samples\D#3v13.wav
+pitch_keycenter=51 lokey=50 hikey=52
+ampeg_decay=79.3
+<region>
+sample=samples\F#3v13.wav
+pitch_keycenter=54 lokey=53 hikey=55
+ampeg_decay=74
+<region>
+sample=samples\A3v13.wav
+pitch_keycenter=57 lokey=56 hikey=58
+ampeg_decay=71.3
+<region>
+sample=samples\C4v13.wav
+pitch_keycenter=60 lokey=59 hikey=61
+ampeg_decay=70.1
+<region>
+sample=samples\D#4v13.wav
+pitch_keycenter=63 lokey=62 hikey=64
+ampeg_decay=64.5
+<region>
+sample=samples\F#4v13.wav
+pitch_keycenter=66 lokey=65 hikey=67
+ampeg_decay=60.1
+<region>
+sample=samples\A4v13.wav
+pitch_keycenter=69 lokey=68 hikey=70
+ampeg_decay=62.8
+<region>
+sample=samples\C5v13.wav
+pitch_keycenter=72 lokey=71 hikey=73
+ampeg_decay=30
+<region>
+sample=samples\D#5v13.wav
+pitch_keycenter=75 lokey=74 hikey=76
+ampeg_decay=25
+<region>
+sample=samples\F#5v13.wav
+pitch_keycenter=78 lokey=77 hikey=79
+ampeg_decay=20
+<region>
+sample=samples\A5v13.wav
+pitch_keycenter=81 lokey=80 hikey=82
+//ampeg_decay=22
+<region>
+sample=samples\C6v13.wav
+pitch_keycenter=84 lokey=83 hikey=85
+//ampeg_decay=13
+<region>
+sample=samples\D#6v13.wav
+pitch_keycenter=87 lokey=86 hikey=88
+//ampeg_decay=13
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=5
+ampeg_decay=22
+lovel=97 hivel=112
+<region>
+sample=samples\F#6v13.wav
+pitch_keycenter=90 lokey=89 hikey=91
+//ampeg_decay=13
+<region>
+sample=samples\A6v13.wav
+pitch_keycenter=93 lokey=92 hikey=94
+//ampeg_decay=13
+<region>
+sample=samples\C7v13.wav
+pitch_keycenter=96 lokey=95 hikey=97
+//ampeg_decay=13
+<region>
+sample=samples\D#7v13.wav
+pitch_keycenter=99 lokey=98 hikey=100
+//ampeg_decay=13
+<region>
+sample=samples\F#7v13.wav
+pitch_keycenter=102 lokey=101 hikey=127
+
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=0.850
+ampeg_decay=22
+lovel=113 hivel=127
+<region>
+sample=samples\F#1v15.wav
+pitch_keycenter=30 lokey=21 hikey=31
+ampeg_decay=82.8
+<region>
+sample=samples\A1v15.wav
+pitch_keycenter=33 lokey=32 hikey=34
+ampeg_decay=82.3
+<region>
+sample=samples\C2v15.wav
+pitch_keycenter=36 lokey=35 hikey=37
+ampeg_decay=82.1
+<region>
+sample=samples\D#2v15.wav
+pitch_keycenter=39 lokey=38 hikey=40
+ampeg_decay=81.9
+<region>
+sample=samples\F#2v15.wav
+pitch_keycenter=42 lokey=41 hikey=43
+ampeg_decay=81.7
+<region>
+sample=samples\A2v15.wav
+pitch_keycenter=45 lokey=44 hikey=46
+ampeg_decay=81.3
+<region>
+sample=samples\C3v15.wav
+pitch_keycenter=48 lokey=47 hikey=49
+ampeg_decay=80.8
+<region>
+sample=samples\D#3v15.wav
+pitch_keycenter=51 lokey=50 hikey=52
+ampeg_decay=79.4
+<region>
+sample=samples\F#3v15.wav
+pitch_keycenter=54 lokey=53 hikey=55
+ampeg_decay=74
+<region>
+sample=samples\A3v15.wav
+pitch_keycenter=57 lokey=56 hikey=58
+ampeg_decay=71.3
+<region>
+sample=samples\C4v15.wav
+pitch_keycenter=60 lokey=59 hikey=61
+ampeg_decay=70.1
+<region>
+sample=samples\D#4v15.wav
+pitch_keycenter=63 lokey=62 hikey=64
+ampeg_decay=64.5
+<region>
+sample=samples\F#4v15.wav
+pitch_keycenter=66 lokey=65 hikey=67
+ampeg_decay=60.1
+<region>
+sample=samples\A4v15.wav
+pitch_keycenter=69 lokey=68 hikey=70
+ampeg_decay=62.8
+<region>
+sample=samples\C5v15.wav
+pitch_keycenter=72 lokey=71 hikey=73
+ampeg_decay=30
+<region>
+sample=samples\D#5v15.wav
+pitch_keycenter=75 lokey=74 hikey=76
+ampeg_decay=25
+<region>
+sample=samples\F#5v15.wav
+pitch_keycenter=78 lokey=77 hikey=79
+ampeg_decay=20
+<region>
+sample=samples\A5v15.wav
+pitch_keycenter=81 lokey=80 hikey=82
+//ampeg_decay=22
+<region>
+sample=samples\C6v15.wav
+pitch_keycenter=84 lokey=83 hikey=85
+//ampeg_decay=22
+<region>
+sample=samples\D#6v15.wav
+pitch_keycenter=87 lokey=86 hikey=88
+//ampeg_decay=13
+<group>
+amp_veltrack=73
+ampeg_sustain=0.1
+ampeg_release=5
+lovel=113 hivel=127
+ampeg_decay=22
+<region>
+sample=samples\F#6v15.wav
+pitch_keycenter=90 lokey=89 hikey=91
+//ampeg_decay=13
+<region>
+sample=samples\A6v15.wav
+pitch_keycenter=93 lokey=92 hikey=94
+//ampeg_decay=13
+<region>
+sample=samples\C7v15.wav
+pitch_keycenter=96 lokey=95 hikey=97
+//ampeg_decay=13
+<region>
+sample=samples\D#7v15.wav
+pitch_keycenter=99 lokey=98 hikey=100
+//ampeg_decay=13
+<region>
+sample=samples\F#7v15.wav
+pitch_keycenter=102 lokey=101 hikey=127
+
+
+// ============================================================
+//Release Resonance
+<group>
+trigger=release
+volume=-4
+amp_veltrack=94
+lovel=45
+
+<region>
+sample=samples\harmLA0.wav
+pitch_keycenter=21 lokey=20 hikey=22
+rt_decay=6
+<region>
+sample=samples\harmLC1.wav
+pitch_keycenter=24 lokey=23 hikey=25
+rt_decay=6
+<region>
+sample=samples\harmLD#1.wav
+pitch_keycenter=27 lokey=26 hikey=28
+rt_decay=6
+<region>
+sample=samples\harmLF#1.wav
+pitch_keycenter=30 lokey=29 hikey=31
+rt_decay=7
+<region>
+sample=samples\harmLA1.wav
+pitch_keycenter=33 lokey=32 hikey=34
+rt_decay=7
+<region>
+sample=samples\harmLC2.wav
+pitch_keycenter=36 lokey=35 hikey=37
+rt_decay=7
+<region>
+sample=samples\harmLD#2.wav
+pitch_keycenter=39 lokey=38 hikey=40
+rt_decay=8
+<region>
+sample=samples\harmLF#2.wav
+pitch_keycenter=42 lokey=41 hikey=43
+rt_decay=8
+<region>
+sample=samples\harmLA2.wav
+pitch_keycenter=45 lokey=44 hikey=46
+rt_decay=8
+<region>
+sample=samples\harmLC3.wav
+pitch_keycenter=48 lokey=47 hikey=49
+rt_decay=8
+<region>
+sample=samples\harmLD#3.wav
+pitch_keycenter=51 lokey=50 hikey=52
+rt_decay=9
+<region>
+sample=samples\harmLF#3.wav
+pitch_keycenter=54 lokey=53 hikey=55
+rt_decay=9
+<region>
+sample=samples\harmLA3.wav
+pitch_keycenter=57 lokey=56 hikey=58
+rt_decay=9
+<region>
+sample=samples\harmLC4.wav
+pitch_keycenter=60 lokey=59 hikey=61
+rt_decay=9
+<region>
+sample=samples\harmLD#4.wav
+pitch_keycenter=63 lokey=62 hikey=64
+rt_decay=9
+<region>
+sample=samples\harmLF#4.wav
+pitch_keycenter=66 lokey=65 hikey=67
+rt_decay=9
+<region>
+sample=samples\harmLA4.wav
+pitch_keycenter=69 lokey=68 hikey=70
+rt_decay=9
+<region>
+sample=samples\harmLC5.wav
+pitch_keycenter=72 lokey=71 hikey=73
+rt_decay=9
+<region>
+sample=samples\harmLD#5.wav
+pitch_keycenter=75 lokey=74 hikey=76
+rt_decay=9
+<region>
+sample=samples\harmLF#5.wav
+pitch_keycenter=78 lokey=77 hikey=79
+rt_decay=9
+<region>
+sample=samples\harmLA5.wav
+pitch_keycenter=81 lokey=80 hikey=82
+rt_decay=9
+<region>
+sample=samples\harmLC6.wav
+pitch_keycenter=84 lokey=83 hikey=85
+rt_decay=9
+<region>
+sample=samples\harmLD#6.wav
+pitch_keycenter=87 lokey=86 hikey=88
+rt_decay=9
+
+//========================
+<group>
+trigger=release
+amp_veltrack=95
+rt_decay=7
+hivel=44
+
+<region>
+sample=samples\harmSA0.wav
+pitch_keycenter=21 lokey=20 hikey=22
+<region>
+sample=samples\harmSC1.wav
+pitch_keycenter=24 hikey=25 lokey=23
+<region>
+sample=samples\harmSD#1.wav
+pitch_keycenter=27 hikey=28 lokey=26
+<region>
+sample=samples\harmSF#1.wav
+pitch_keycenter=30 hikey=31 lokey=29
+<region>
+sample=samples\harmSA1.wav
+pitch_keycenter=33 lokey=32 hikey=34
+<region>
+sample=samples\harmSC2.wav
+pitch_keycenter=36 hikey=37 lokey=35
+<region>
+sample=samples\harmSD#2.wav
+pitch_keycenter=39 hikey=40 lokey=38
+<region>
+sample=samples\harmSF#2.wav
+pitch_keycenter=42 hikey=43 lokey=41
+
+//=======================
+<group>
+trigger=release
+amp_veltrack=90
+rt_decay=7
+hivel=44
+
+<region>
+sample=samples\harmSA2.wav
+pitch_keycenter=45 hikey=46 lokey=44
+<region>
+sample=samples\harmSC3.wav
+pitch_keycenter=48 hikey=49 lokey=47
+<region>
+sample=samples\harmSD#3.wav
+pitch_keycenter=51 hikey=52 lokey=50
+<region>
+sample=samples\harmSF#3.wav
+pitch_keycenter=54 lokey=53 hikey=55
+<region>
+sample=samples\harmSA3.wav
+pitch_keycenter=57 lokey=56 hikey=58
+<region>
+sample=samples\harmSC4.wav
+pitch_keycenter=60 lokey=59 hikey=61
+<region>
+sample=samples\harmSD#4.wav
+pitch_keycenter=63 lokey=62 hikey=64
+<region>
+sample=samples\harmSF#4.wav
+pitch_keycenter=66 lokey=65 hikey=67
+<region>
+sample=samples\harmSA4.wav
+pitch_keycenter=69 lokey=68 hikey=70
+<region>
+sample=samples\harmSC5.wav
+pitch_keycenter=72 lokey=71 hikey=73
+<region>
+sample=samples\harmSD#5.wav
+pitch_keycenter=75 lokey=74 hikey=76
+<region>
+sample=samples\harmSF#5.wav
+pitch_keycenter=78 hikey=79 lokey=77
+<region>
+sample=samples\harmSA5.wav
+pitch_keycenter=81 hikey=82 lokey=80
+<region>
+sample=samples\harmSC6.wav
+pitch_keycenter=84 hikey=85 lokey=83
+<region>
+sample=samples\harmSD#6.wav
+pitch_keycenter=87 hikey=88 lokey=86
+
+//========================
+
+<group>
+trigger=release
+amp_veltrack=96
+rt_decay=2
+
+<region>
+sample=samples\harmV3A0.wav
+pitch_keycenter=21 hikey=22 lokey=20
+<region>
+sample=samples\harmV3C1.wav
+pitch_keycenter=24 hikey=25 lokey=23
+<region>
+sample=samples\harmV3D#1.wav
+pitch_keycenter=27 hikey=28 lokey=26
+<region>
+sample=samples\harmV3F#1.wav
+pitch_keycenter=30 hikey=31 lokey=29
+<region>
+sample=samples\harmV3A1.wav
+pitch_keycenter=33 hikey=34 lokey=32
+<region>
+sample=samples\harmV3C2.wav
+pitch_keycenter=36 hikey=37 lokey=35
+<region>
+sample=samples\harmV3D#2.wav
+pitch_keycenter=39 hikey=40 lokey=38
+<region>
+sample=samples\harmV3F#2.wav
+pitch_keycenter=42 hikey=43 lokey=41
+<region>
+sample=samples\harmV3A2.wav
+lokey=44 hikey=46 pitch_keycenter=45
+<region>
+sample=samples\harmV3C3.wav
+lokey=47 hikey=49 pitch_keycenter=48
+<region>
+sample=samples\harmV3D#3.wav
+pitch_keycenter=51 lokey=50 hikey=52
+<region>
+sample=samples\harmV3F#3.wav
+pitch_keycenter=54 lokey=53 hikey=55
+<region>
+sample=samples\harmV3A3.wav
+pitch_keycenter=57 lokey=56 hikey=58
+<region>
+sample=samples\harmV3C4.wav
+pitch_keycenter=60 lokey=59 hikey=61
+<region>
+sample=samples\harmV3D#4.wav
+pitch_keycenter=63 lokey=62 hikey=64
+<region>
+sample=samples\harmV3F#4.wav
+pitch_keycenter=66 lokey=65 hikey=67
+<region>
+sample=samples\harmV3A4.wav
+pitch_keycenter=69 lokey=68 hikey=70
+<region>
+sample=samples\harmV3C5.wav
+pitch_keycenter=72 lokey=71 hikey=73
+<region>
+sample=samples\harmV3D#5.wav
+lokey=74 hikey=76 pitch_keycenter=75
+<region>
+sample=samples\harmV3F#5.wav
+lokey=77 hikey=79 pitch_keycenter=78
+<region>
+sample=samples\harmV3A5.wav
+lokey=80 hikey=82 pitch_keycenter=81
+<region>
+sample=samples\harmV3C6.wav
+lokey=83 hikey=85 pitch_keycenter=84
+<region>
+sample=samples\harmV3D#6.wav
+lokey=86 hikey=88 pitch_keycenter=87
+
+// ================================
+//HammerNoise
+<group>
+trigger=release
+pitch_keytrack=0
+volume=-37
+amp_veltrack=82
+rt_decay=2
+
+<region>
+sample=samples\rel1.wav
+lokey=21 hikey=23
+<region>
+sample=samples\rel4.wav
+lokey=24 hikey=26
+<region>
+sample=samples\rel7.wav
+lokey=27 hikey=29
+<region>
+sample=samples\rel10.wav
+lokey=30 hikey=32
+<region>
+sample=samples\rel13.wav
+lokey=33 hikey=35
+<region>
+sample=samples\rel16.wav
+lokey=36 hikey=38
+<region>
+sample=samples\rel19.wav
+lokey=39 hikey=41
+<region>
+sample=samples\rel22.wav
+lokey=42 hikey=44
+<region>
+sample=samples\rel25.wav
+lokey=45 hikey=47
+<region>
+sample=samples\rel28.wav
+lokey=48 hikey=50
+<region>
+sample=samples\rel31.wav
+lokey=51 hikey=53
+sample=samples\rel34.wav
+lokey=54 hikey=56
+<region>
+sample=samples\rel37.wav
+lokey=57 hikey=59
+<region>
+sample=samples\rel40.wav
+lokey=60 hikey=63
+<region>
+sample=samples\rel44.wav
+lokey=64 hikey=66
+<region>
+sample=samples\rel47.wav
+lokey=67 hikey=69
+<region>
+sample=samples\rel50.wav
+lokey=70 hikey=72
+<region>
+sample=samples\rel53.wav
+lokey=73 hikey=75
+<region>
+sample=samples\rel56.wav
+lokey=76 hikey=78
+<region>
+sample=samples\rel59.wav
+lokey=79 hikey=81
+<region>
+sample=samples\rel62.wav
+lokey=82 hikey=84
+<region>
+sample=samples\rel65.wav
+lokey=85 hikey=87
+<region>
+sample=samples\rel68.wav
+lokey=88 hikey=90
+<region>
+sample=samples\rel71.wav
+lokey=91 hikey=93
+<region>
+sample=samples\rel74.wav
+lokey=94 hikey=96
+<region>
+sample=samples\rel77.wav
+lokey=97 hikey=99
+<region>
+sample=samples\rel80.wav
+lokey=100 hikey=102
+<region>
+sample=samples\rel83.wav
+lokey=103 hikey=105
+<region>
+sample=samples\rel86.wav
+lokey=106 hikey=108
+
+// =========================================
+//pedalAction
+
+<group> group=1 hikey=-1 lokey=-1 on_locc64=64 on_hicc64=127 off_by=2 volume=-24
+
+<region> lorand=0 hirand=0.499 sample=samples\pedalD1.wav
+<region> lorand=0.500 hirand=1 sample=samples\pedalD2.wav
+
+<group> hikey=-1 lokey=-1 on_locc64=0 on_hicc64=63 group=2 volume=-23
+
+<region> lorand=0 hirand=0.499 sample=samples\pedalU1.wav
+<region> lorand=0.500 hirand=1 sample=samples\pedalU2.wav

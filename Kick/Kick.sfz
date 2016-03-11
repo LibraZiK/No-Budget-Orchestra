@@ -1,0 +1,39 @@
+<group>
+key=35
+seq_length=2
+<region>
+sample=1a.wav
+lovel=0 hivel=24
+<region>
+sample=1b.wav seq_position=2
+lovel=0 hivel=24
+<region>
+sample=2a.wav
+lovel=25 hivel=48
+<region>
+sample=2b.wav seq_position=2
+lovel=25 hivel=48
+<region>
+sample=3a.wav
+lovel=49 hivel=70
+<region>
+sample=3b.wav seq_position=2
+lovel=49 hivel=70
+<region>
+sample=4a.wav
+lovel=71 hivel=94
+<region>
+sample=4b.wav seq_position=2
+lovel=71 hivel=94
+<region>
+sample=5a.wav
+lovel=95 hivel=112
+<region>
+sample=5b.wav seq_position=2
+lovel=95 hivel=112
+<region>
+sample=6a.wav
+lovel=113 hivel=127
+<region>
+sample=6b.wav seq_position=2
+lovel=113 hivel=127

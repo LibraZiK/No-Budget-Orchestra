@@ -1,0 +1,20 @@
+<control> default_path=Tambourine\
+<group> key=54 group=1 loop_mode=one_shot seq_length=5 off_by=6
+<region> sample=hit1.wav
+<region> sample=hit2.wav seq_position=2
+<region> sample=hit3.wav seq_position=3
+<region> sample=hit4.wav seq_position=4
+<region> sample=hit5.wav seq_position=5
+<group> key=55 group=6 loop_mode=one_shot seq_length=4 off_by=1
+<region> sample=shake1.wav
+<region> sample=shake2.wav seq_position=2
+<region> sample=shake3.wav seq_position=3
+<region> sample=shake4.wav seq_position=4
+
+<group> key=60 group=2 off_by=1 ampeg_release=.1 off_mode=normal seq_length=3
+<region> sample=tambroll1.wav
+<region> sample=tambroll2.wav seq_position=2
+<region> sample=tambroll3.wav seq_position=3
+<group> key=60 group=4 off_by=1 trigger=release loop_mode=one_shot seq_length=2
+<region> sample=tambend1.wav
+<region> sample=tambend2.wav seq_position=2

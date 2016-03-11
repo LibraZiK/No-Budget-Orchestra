@@ -1,0 +1,396 @@
+// Clean electric guitar fret/pick noises.
+// MIDI Notes 102 to 127 are pick noises.
+// Notes 68 to 101 are fret noises for the two high guitar strings.
+// Notes 34 to 67 are fret noises for the two middle guitar strings.
+// Notes 0 to 33 are fret noises for the two low guitar strings.
+
+//========================
+<group>
+	ampeg_decay=4
+	ampeg_release=4
+	amp_veltrack=50
+<region>
+	sample=Scrape_01c.wav
+	key=0
+<region>
+	sample=Click_01c.wav
+	key=1
+<region>
+	sample=Scrape_02c.wav
+	key=2
+<region>
+	sample=Click_02c.wav
+	key=3
+<region>
+	sample=Scrape_03c.wav
+	key=4
+<region>
+	sample=Scrape_04c.wav
+	key=5
+<region>
+	sample=Click_03c.wav
+	key=6
+<region>
+	sample=Scrape_05c.wav
+	key=7
+<region>
+	sample=Click_04c.wav
+	key=8
+<region>
+	sample=Click_05c.wav
+	key=9
+<region>
+	sample=Scrape_06c.wav
+	key=10
+<region>
+	sample=Click_06c.wav
+	key=11
+<region>
+	sample=Scrape_07c.wav
+	key=12
+<region>
+	sample=Scrape_08c.wav
+	key=13
+<region>
+	sample=Click_07c.wav
+	key=14
+<region>
+	sample=Scrape_09c.wav
+	key=15
+<region>
+	sample=Click_08c.wav
+	key=16
+<region>
+	sample=Scrape_10c.wav
+	key=17
+<region>
+	sample=Click_10c.wav
+	key=18
+<region>
+	sample=Scrape_11c.wav
+	key=19
+<region>
+	sample=Click_11c.wav
+	key=20
+<region>
+	sample=Scrape_12c.wav
+	key=21
+<region>
+	sample=Scrape_13c.wav
+	key=22
+<region>
+	sample=Click_12c.wav
+	key=23
+<region>
+	sample=Scrape_14c.wav
+	key=24
+<region>
+	sample=Click_13c.wav
+	key=25
+<region>
+	sample=Scrape_15c.wav
+	key=26
+<region>
+	sample=Scrape_16c.wav
+	key=27
+<region>
+	sample=Click_14c.wav
+	key=28
+<region>
+	sample=Scrape_17c.wav
+	key=29
+<region>
+	sample=Scrape_18c.wav
+	key=30
+<region>
+	sample=Scrape_19c.wav
+	key=31
+<region>
+	sample=Click_09c.wav
+	key=32
+<region>
+	sample=Scrape_20c.wav
+	key=33
+<region>
+	sample=Scrape_01b.wav
+	key=34
+<region>
+	sample=Click_01b.wav
+	key=35
+<region>
+	sample=Scrape_02b.wav
+	key=36
+<region>
+	sample=Click_02b.wav
+	key=37
+<region>
+	sample=Scrape_03b.wav
+	key=38
+region>
+	sample=Scrape_04b.wav
+	key=39
+<region>
+	sample=Click_03b.wav
+	key=40
+<region>
+	sample=Scrape_05b.wav
+	key=41
+<region>
+	sample=Click_04b.wav
+	key=42
+<region>
+	sample=Click_05b.wav
+	key=43
+<region>
+	sample=Scrape_06b.wav
+	key=44
+<region>
+	sample=Click_06b.wav
+	key=45
+<region>
+	sample=Scrape_07b.wav
+	key=46
+<region>
+	sample=Scrape_08b.wav
+	key=47
+<region>
+	sample=Click_07b.wav
+	key=48
+<region>
+	sample=Scrape_09b.wav
+	key=49
+<region>
+	sample=Click_08b.wav
+	key=50
+<region>
+	sample=Scrape_10b.wav
+	key=51
+<region>
+	sample=Click_10b.wav
+	key=52
+<region>
+	sample=Scrape_11b.wav
+	key=53
+<region>
+	sample=Click_11b.wav
+	key=54
+<region>
+	sample=Scrape_12b.wav
+	key=55
+<region>
+	sample=Scrape_13b.wav
+	key=56
+<region>
+	sample=Click_12b.wav
+	key=57
+<region>
+	sample=Scrape_14b.wav
+	key=58
+<region>
+	sample=Click_13b.wav
+	key=59
+<region>
+	sample=Scrape_15b.wav
+	key=60
+<region>
+	sample=Scrape_16b.wav
+	key=61
+<region>
+	sample=Click_14b.wav
+	key=62
+<region>
+	sample=Scrape_17b.wav
+	key=63
+<region>
+	sample=Scrape_18b.wav
+	key=64
+<region>
+	sample=Scrape_19b.wav
+	key=65
+<region>
+	sample=Click_09b.wav
+	key=66
+<region>
+	sample=Scrape_20b.wav
+	key=67
+<region>
+	sample=Scrape_01a.wav
+	key=68
+<region>
+	sample=Click_01a.wav
+	key=69
+<region>
+	sample=Scrape_02a.wav
+	key=70
+<region>
+	sample=Click_02a.wav
+	key=71
+<region>
+	sample=Scrape_03a.wav
+	key=72
+<region>
+	sample=Scrape_04a.wav
+	key=73
+<region>
+	sample=Click_03a.wav
+	key=74
+<region>
+	sample=Scrape_05a.wav
+	key=75
+<region>
+	sample=Click_04a.wav
+	key=76
+<region>
+	sample=Click_05a.wav
+	key=77
+<region>
+	sample=Scrape_06a.wav
+	key=78
+<region>
+	sample=Click_06a.wav
+	key=79
+<region>
+	sample=Scrape_07a.wav
+	key=80
+<region>
+	sample=Scrape_08a.wav
+	key=81
+<region>
+	sample=Click_07a.wav
+	key=82
+<region>
+	sample=Scrape_09a.wav
+	key=83
+<region>
+	sample=Click_08a.wav
+	key=84
+<region>
+	sample=Scrape_10a.wav
+	key=85
+<region>
+	sample=Click_10a.wav
+	key=86
+<region>
+	sample=Scrape_11a.wav
+	key=87
+<region>
+	sample=Click_11a.wav
+	key=88
+<region>
+	sample=Scrape_12a.wav
+	key=89
+<region>
+	sample=Scrape_13a.wav
+	key=90
+<region>
+	sample=Click_12a.wav
+	key=91
+<region>
+	sample=Scrape_14a.wav
+	key=92
+<region>
+	sample=Click_13a.wav
+	key=93
+<region>
+	sample=Scrape_15a.wav
+	key=94
+<region>
+	sample=Scrape_16a.wav
+	key=95
+<region>
+	sample=Click_14a.wav
+	key=96
+<region>
+	sample=Scrape_17a.wav
+	key=97
+<region>
+	sample=Scrape_18a.wav
+	key=98
+<region>
+	sample=Scrape_19a.wav
+	key=99
+<region>
+	sample=Click_09a.wav
+	key=100
+<region>
+	sample=Scrape_20a.wav
+	key=101
+
+<region>
+	sample=Pick_01.wav
+	key=102
+<region>
+	sample=Pick_02.wav
+	key=103
+<region>
+	sample=Pick_03.wav
+	key=104
+<region>
+	sample=Pick_04.wav
+	key=105
+<region>
+	sample=Pick_05.wav
+	key=106
+<region>
+	sample=Pick_06.wav
+	key=107
+<region>
+	sample=Pick_07.wav
+	key=108
+<region>
+	sample=Pick_08.wav
+	key=109
+<region>
+	sample=Pick_09.wav
+	key=110
+<region>
+	sample=Pick_10.wav
+	key=111
+<region>
+	sample=Pick_11.wav
+	key=112
+<region>
+	sample=Pick_12.wav
+	key=113
+<region>
+	sample=Pick_13.wav
+	key=114
+<region>
+	sample=Pick_14.wav
+	key=115
+<region>
+	sample=Pick_15.wav
+	key=116
+<region>
+	sample=Pick_16.wav
+	key=117
+<region>
+	sample=Pick_17.wav
+	key=118
+<region>
+	sample=Pick_18.wav
+	key=119
+<region>
+	sample=Pick_19.wav
+	key=120
+<region>
+	sample=Pick_20.wav
+	key=121
+<region>
+	sample=Pick_21.wav
+	key=122
+<region>
+	sample=Pick_22.wav
+	key=123
+<region>
+	sample=Pick_23.wav
+	key=124
+<region>
+	sample=Pick_24.wav
+	key=125
+<region>
+	sample=Pick_25.wav
+	key=126
+<region>
+	sample=Pick_26.wav
+	key=127

@@ -1,0 +1,47 @@
+<control> default_path=Noise\
+<group> loop_mode=one_shot
+
+/////////////////////////////////////////////////////////////////////////////
+// Fret noises
+
+<region> sample=rel1.wav key=87
+<region> sample=rel2.wav key=88
+<region> sample=rel3.wav key=89
+<region> sample=rel4.wav key=90
+<region> sample=rel5.wav key=91
+<region> sample=rel6.wav key=92
+<region> sample=rel7.wav key=93
+<region> sample=rel8.wav key=94
+<region> sample=rel9.wav key=95
+<region> sample=SOUND_1.wav pitch_keycenter=74 lokey=72 hikey=76
+<region> sample=SOUND_2.wav pitch_keycenter=79 lokey=77 hikey=81
+<region> sample=SOUND_3.wav pitch_keycenter=84 lokey=82 hikey=86
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Release clicks
+
+<region> sample=KLICK_1.wav pitch_keycenter=101 lokey=99 hikey=103
+<region> sample=KLICK_2.wav pitch_keycenter=106 lokey=104 hikey=108
+<region> sample=KLICK_3.wav pitch_keycenter=109 lokey=109 hikey=113
+
+<control> default_path=Sustain\
+<group> ampeg_decay=36.9926 ampeg_sustain=0.001 ampeg_release=0.435024
+<region> sample=1_E.wav hikey=f1 pitch_keycenter=e1
+ampeg_hold=9.00047
+<region> sample=1_Ab.wav lokey=f#1 hikey=g#1 pitch_keycenter=g#1
+ampeg_hold=8.6
+<region> sample=1_Bb.wav lokey=a1 hikey=a#1 pitch_keycenter=a#1
+ampeg_hold=8.4
+<region> sample=2_C.wav lokey=b1 hikey=c2 pitch_keycenter=c2
+ampeg_hold=8.2
+<region> sample=2_D.wav lokey=c#2 hikey=d#2 pitch_keycenter=d2
+ampeg_hold=7.9
+<region> sample=2_Gb.wav lokey=e2 hikey=f#2 pitch_keycenter=f#2
+ampeg_hold=6.9
+<region> sample=2_Ab.wav lokey=g2 hikey=g#2 pitch_keycenter=g#2
+ampeg_hold=6.6
+<region> sample=2_B.wav lokey=a2 hikey=c3 pitch_keycenter=b2
+ampeg_hold=6.2
+<region> sample=3_Eb.wav lokey=c#3 hikey=e4 pitch_keycenter=d#3
+ampeg_hold=5.7

@@ -1,0 +1,18 @@
+<control> default_path=OrchCym\
+<group> group=11 key=57 ampeg_sustain=.01 ampeg_release=60 ampeg_decay=60 seq_length=3 off_by=12
+<region> sample=crash1_f.wav lovel=60
+<region> sample=crash2_f.wav lovel=60 seq_position=2
+<region> sample=crash3_f.wav lovel=60 seq_position=3
+<region> sample=crash1_mf.wav hivel=59
+<region> sample=crash2_mf.wav hivel=59 seq_position=2
+<region> sample=crash3_mf.wav hivel=59 seq_position=3
+
+<group> group=13 key=59 seq_length=2 off_by=14 ampeg_release=.2 off_mode=normal
+<region> sample=cymroll.wav
+<region> sample=cymroll2.wav seq_position=2
+<group> group=14 trigger=release key=59 seq_length=2 off_by=12 loop_mode=one_shot
+<region> sample=cymend.wav
+<region> sample=cymend2.wav seq_position=2
+
+<group> group=12 key=58 loop_mode=one_shot ampeg_sustain=.1 ampeg_release=5 ampeg_decay=5
+<region> sample=crash1_mf.wav offset=86108

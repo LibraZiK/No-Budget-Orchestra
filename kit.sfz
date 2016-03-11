@@ -1,0 +1,436 @@
+<group>
+key=38
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+loop_mode=one_shot
+volume=-3
+<region>
+sample=snare_p1.wav
+hivel=37
+<region>
+sample=snare_p2.wav seq_position=2
+hivel=37
+<region>
+sample=snare_mp1.wav
+lovel=38 hivel=75
+<region>
+sample=snare_mp2.wav seq_position=2
+lovel=38 hivel=75
+<region>
+sample=snare_f1.wav
+lovel=76 hivel=101
+<region>
+sample=snare_f2.wav seq_position=2
+lovel=76 hivel=101
+<region>
+sample=snare_ff1.wav
+lovel=102
+<region>
+sample=snare_ff2.wav seq_position=2
+lovel=102
+
+<group>
+key=40
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+loop_mode=one_shot
+<region>
+sample=rim_p1.wav
+hivel=37
+<region>
+sample=rim_p2.wav seq_position=2
+hivel=37
+<region>
+sample=rim_mp1.wav
+lovel=38 hivel=75
+<region>
+sample=rim_mp2.wav seq_position=2
+lovel=38 hivel=75
+<region>
+sample=rim_f1.wav
+lovel=76 hivel=101
+<region>
+sample=rim_f2.wav seq_position=2
+lovel=76 hivel=101
+<region>
+sample=rim_ff1.wav
+lovel=102
+<region>
+sample=rim_ff2.wav seq_position=2
+lovel=102
+
+<group>
+lokey=50 hikey=50 pitch_keycenter=48
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=6 ampeg_decay=6
+loop_mode=one_shot
+seq_length=2
+<region>
+sample=tomhi1a.wav
+hivel=47
+<region>
+sample=tomhi1b.wav seq_position=2
+hivel=47
+<region>
+sample=tomhi2a.wav
+lovel=48 hivel=95
+<region>
+sample=tomhi2b.wav seq_position=2
+lovel=48 hivel=95
+<region>
+sample=tomhi3a.wav
+lovel=96
+<region>
+sample=tomhi3b.wav seq_position=2
+lovel=96
+
+<group>
+key=48
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=7 ampeg_decay=7
+loop_mode=one_shot
+seq_length=2
+<region>
+sample=tomhi1a.wav
+hivel=47
+<region>
+sample=tomhi1b.wav seq_position=2
+hivel=47
+<region>
+sample=tomhi2a.wav
+lovel=48 hivel=95
+<region>
+sample=tomhi2b.wav seq_position=2
+lovel=48 hivel=95
+<region>
+sample=tomhi3a.wav
+lovel=96
+<region>
+sample=tomhi3b.wav seq_position=2
+lovel=96
+
+<group>
+lokey=47 hikey=47 pitch_keycenter=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=7 ampeg_decay=7
+loop_mode=one_shot
+seq_length=2
+<region>
+sample=tomlo1a.wav
+hivel=47
+<region>
+sample=tomlo1b.wav seq_position=2
+hivel=47
+<region>
+sample=tomlo2a.wav
+lovel=48 hivel=95
+<region>
+sample=tomlo2b.wav seq_position=2
+lovel=48 hivel=95
+<region>
+sample=tomlo3a.wav
+lovel=96
+<region>
+sample=tomlo3b.wav seq_position=2
+lovel=96
+
+<group>
+lokey=45 hikey=45 pitch_keycenter=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=8 ampeg_decay=8
+loop_mode=one_shot
+seq_length=2
+<region>
+sample=tomlo1a.wav
+hivel=47
+<region>
+sample=tomlo1b.wav seq_position=2
+hivel=47
+<region>
+sample=tomlo2a.wav
+lovel=48 hivel=95
+<region>
+sample=tomlo2b.wav seq_position=2
+lovel=48 hivel=95
+<region>
+sample=tomlo3a.wav
+lovel=96
+<region>
+sample=tomlo3b.wav seq_position=2
+lovel=96
+
+<group>
+key=43
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=9 ampeg_decay=9
+loop_mode=one_shot
+<region>
+sample=floor_p.wav
+hivel=37
+<region>
+sample=floor_mp.wav
+lovel=38 hivel=72
+<region>
+sample=floor_f.wav
+lovel=73 hivel=101
+<region>
+sample=floor_ff.wav
+lovel=102 hivel=127
+
+<group>
+lokey=41 hikey=41 pitch_keycenter=43
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+loop_mode=one_shot
+<region>
+sample=floor_p.wav
+hivel=37
+<region>
+sample=floor_mp.wav
+lovel=38 hivel=72
+<region>
+sample=floor_f.wav
+lovel=73 hivel=101
+<region>
+sample=floor_ff.wav
+lovel=102 hivel=127
+
+<group>
+key=49
+volume=-8
+seq_length=2
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=50 ampeg_decay=50
+amp_veltrack=80
+<region>
+sample=crash1_ff1.wav
+lovel=105
+<region>
+sample=crash1_ff2.wav seq_position=2
+lovel=105
+<region>
+sample=crash1_f1.wav
+lovel=80 hivel=104
+<region>
+sample=crash1_f2.wav seq_position=2
+lovel=80 hivel=104
+<region>
+sample=crash1_mf1.wav
+hivel=79
+<region>
+sample=crash1_mf2.wav seq_position=2
+hivel=79
+
+<group>
+//key=57
+lokey=57 hikey=57 pitch_keycenter=56
+volume=-8
+seq_length=2
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=50 ampeg_decay=50
+amp_veltrack=80
+<region>
+sample=crash1_ff1.wav
+lovel=105
+<region>
+sample=crash1_ff2.wav seq_position=2
+lovel=105
+<region>
+sample=crash1_f1.wav
+lovel=80 hivel=104
+<region>
+sample=crash1_f2.wav seq_position=2
+lovel=80 hivel=104
+<region>
+sample=crash1_mf1.wav
+hivel=79
+<region>
+sample=crash1_mf2.wav seq_position=2
+hivel=79
+
+<group>
+key=53
+volume=-10
+seq_length=2
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=50 ampeg_decay=50
+amp_veltrack=70
+<region>
+sample=bell_f1.wav
+lovel=94
+<region>
+sample=bell_f2.wav seq_position=2
+lovel=94
+<group>
+key=53
+volume=-10
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=50 ampeg_decay=50
+<region>
+sample=bell_mf.wav
+lovel=40 hivel=93
+<region>
+sample=bell_p.wav
+hivel=39
+
+<group>
+key=51
+volume=-12
+seq_length=2
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=50 ampeg_decay=50
+amp_veltrack=80
+<region>
+sample=ride_ff1.wav
+lovel=105
+<region>
+sample=ride_ff2.wav seq_position=2
+lovel=105
+<region>
+sample=ride_f1.wav
+lovel=80 hivel=104
+<region>
+sample=ride_f2.wav seq_position=2
+lovel=80 hivel=104
+<region>
+sample=ride_mf1.wav
+hivel=79
+<region>
+sample=ride_mf2.wav seq_position=2
+hivel=79
+
+<group>
+volume=-5
+lokey=35 hikey=36 pitch_keycenter=35
+loop_mode=one_shot
+amp_veltrack=70
+<region>
+sample=kick_p.wav
+hivel=29
+<region>
+sample=kick_mp.wav
+lovel=30 hivel=57
+<region>
+sample=kick_mf.wav
+lovel=58 hivel=87
+<group>
+volume=-5
+lokey=35 hikey=36 pitch_keycenter=35
+loop_mode=one_shot
+amp_veltrack=70
+seq_length=2
+<region>
+sample=kick_f.wav
+lovel=88 hivel=107
+<region>
+sample=kick_f2.wav seq_position=2
+lovel=88 hivel=107
+<region>
+sample=kick_ff.wav
+lovel=108
+<region>
+sample=kick_ff2.wav seq_position=2
+lovel=108
+
+<group>
+key=42
+seq_length=4
+//volume=-15
+group=1
+loop_mode=one_shot
+amp_veltrack=80
+<region>
+sample=closed-mp1.wav
+hivel=52
+<region>
+sample=closed-mp2.wav seq_position=2
+hivel=52
+<region>
+sample=closed-mp3.wav seq_position=3
+hivel=52
+<region>
+sample=closed-mp4.wav seq_position=4
+hivel=52
+<region>
+sample=closed-mf1.wav
+lovel=53 hivel=99
+<region>
+sample=closed-mf2.wav seq_position=2
+lovel=53 hivel=99
+<region>
+sample=closed-mf3.wav seq_position=3
+lovel=53 hivel=99
+<region>
+sample=closed-mf4.wav seq_position=4
+lovel=53 hivel=99
+<region>
+sample=closed-f1.wav
+lovel=100
+<region>
+sample=closed-f2.wav seq_position=2
+lovel=100
+<region>
+sample=closed-f3.wav seq_position=3
+lovel=100
+<region>
+sample=closed-f4.wav seq_position=4
+lovel=100
+
+<group>
+key=44
+group=2
+seq_length=2
+loop_mode=one_shot
+amp_veltrack=70
+<region>
+sample=pedal.wav
+<region>
+sample=pedal2.wav seq_position=2
+
+<group>
+volume=-10
+key=46
+group=3
+off_mode=fast off_by=1 off_by=2 offby=1 offby=2
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+loop_mode=loop_continuous
+amp_veltrack=80
+<region>
+sample=open-p.wav
+hivel=50
+<region>
+sample=open-p.wav seq_position=2
+hivel=50
+<region>
+sample=open.wav
+lovel=51 hivel=100
+<region>
+sample=open-mf.wav seq_position=2
+lovel=51 hivel=100
+<region>
+sample=open-f.wav
+lovel=101
+<region>
+sample=open-f.wav seq_position=2
+lovel=101
+
+<group>
+key=56
+group=5
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+loop_mode=loop_continuous
+amp_veltrack=70
+<region>
+sample=footstomp.wav
+
+<group>
+key=58
+group=4
+off_mode=fast off_by=1 off_by=2 offby=1 offby=2
+seq_length=4
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+loop_mode=one_shot
+amp_veltrack=80
+<region>
+sample=halfopen1.wav
+<region>
+sample=halfopen2.wav seq_position=2
+<region>
+sample=halfopen3.wav seq_position=3
+<region>
+sample=halfopen4.wav seq_position=4

@@ -1,0 +1,6 @@
+<control> default_path=Cabasa\
+<group> loop_mode=one_shot key=69 seq_length=4
+<region> sample=CabasaDown.wav
+<region> sample=CabasaUp.wav seq_position=2
+<region> sample=CabasaDown2.wav seq_position=3
+<region> sample=CabasaUp2.wav seq_position=4

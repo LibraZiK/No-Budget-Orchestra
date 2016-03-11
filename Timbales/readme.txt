@@ -1,0 +1,1 @@
+High and low timbales mapped to midi notes 65 and 66 respectively. Sustain pedal does a rimshot.

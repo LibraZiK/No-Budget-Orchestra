@@ -1,0 +1,145 @@
+<group>
+ampeg_sustain=.01
+ampeg_decay=15
+ampeg_release=.4
+<region>
+sample=Gb1.wav hikey=f#1 pitch_keycenter=f#1
+<region>
+sample=G1.wav key=g1
+<region>
+sample=Ab1.wav key=g#1
+<region>
+sample=A1.wav key=a1
+<region>
+sample=Bb1.wav key=a#1
+<region>
+sample=B1.wav key=b1
+<region>
+sample=C2.wav key=c2
+<region>
+sample=Db2.wav key=c#2
+<region>
+sample=D2.wav key=d2
+<region>
+sample=Eb2.wav key=d#2
+<region>
+sample=E2.wav key=e2
+<region>
+sample=F2.wav key=f2
+<region>
+sample=Gb2.wav key=f#2
+<region>
+sample=G2.wav key=g2
+<region>
+sample=Ab2.wav key=g#2
+<region>
+sample=A2.wav key=a2
+<region>
+sample=Bb2.wav key=a#2
+<region>
+sample=B2.wav key=b2
+<region>
+sample=C3.wav key=c3
+<region>
+sample=Db3.wav key=c#3
+<region>
+sample=D3.wav key=d3
+<region>
+sample=Eb3.wav key=d#3
+<region>
+sample=E3.wav key=e3
+<region>
+sample=F3.wav key=f3
+<region>
+sample=Gb3.wav key=f#3
+<region>
+sample=G3.wav key=g3
+<region>
+sample=Ab3.wav key=g#3
+<region>
+sample=A3.wav key=a3
+<region>
+sample=Bb3.wav key=a#3
+<region>
+sample=B3.wav key=b3
+<region>
+sample=C4.wav key=c4
+<region>
+sample=Db4.wav key=c#4
+<region>
+sample=D4.wav key=d4
+<region>
+sample=Eb4.wav lokey=d#4 pitch_keycenter=d#4
+
+<group>
+trigger=release
+//lorand=0 hirand=0.2
+loop_mode=one_shot
+<region>
+sample=_Gb1.wav hikey=f#1 pitch_keycenter=f#1
+<region>
+sample=_G1.wav key=g1
+<region>
+sample=_Ab1.wav key=g#1
+<region>
+sample=_A1.wav key=a1
+<region>
+sample=_Bb1.wav key=a#1
+<region>
+sample=_B1.wav key=b1
+<region>
+sample=_C2.wav key=c2
+<region>
+sample=_Db2.wav key=c#2
+<region>
+sample=_D2.wav key=d2
+<region>
+sample=_Eb2.wav key=d#2
+<region>
+sample=_E2.wav key=e2
+<region>
+sample=_F2.wav key=f2
+<region>
+sample=_Gb2.wav key=f#2
+<region>
+sample=_G2.wav key=g2
+<region>
+sample=_Ab2.wav key=g#2
+<region>
+sample=_A2.wav key=a2
+<region>
+sample=_Bb2.wav key=a#2
+<region>
+sample=_B2.wav key=b2
+<region>
+sample=_C3.wav key=c3
+<region>
+sample=_Db3.wav key=c#3
+<region>
+sample=_D3.wav key=d3
+<region>
+sample=_Eb3.wav key=d#3
+<region>
+sample=_E3.wav key=e3
+<region>
+sample=_F3.wav key=f3
+<region>
+sample=_Gb3.wav key=f#3
+<region>
+sample=_G3.wav key=g3
+<region>
+sample=_Ab3.wav key=g#3
+<region>
+sample=_A3.wav key=a3
+<region>
+sample=_Bb3.wav key=a#3
+<region>
+sample=_B3.wav key=b3
+<region>
+sample=_C4.wav key=c4
+<region>
+sample=_Db4.wav key=c#4
+<region>
+sample=_D4.wav key=d4
+<region>
+sample=_Eb4.wav lokey=d#4 pitch_keycenter=d#4
